@@ -1,0 +1,1335 @@
+,country,song,artist,year,points,running_order,place,points_normalized
+0,Netherlands,Net Als Toen,Corry Brokken,1957,0.040897097,6,1,0.040897097
+1,France,La Belle Amour,Paule Desjardins,1957,0.022427442,8,2,0.022427442
+2,Denmark,Skibet Skal Sejle I Nat,Birthe Wilke & Gustav Winckler,1957,0.013192612,9,3,0.013192612
+3,Luxembourg,Amours Mortes (Tant De Peine),Danièle Dupré,1957,0.01055409,2,4,0.01055409
+4,Germany,"Telefon, Telefon",Margot Hielscher,1957,0.01055409,7,4,0.01055409
+5,Italy,Corde Della Mia Chitarra,Nunzio Gallo,1957,0.009234829,4,6,0.009234829
+6,United Kingdom,All,Patricia Bredin,1957,0.007915568,3,7,0.007915568
+7,Belgium,Straatdeuntje,Bobbejaan Schoepen,1957,0.006596306,1,8,0.006596306
+8,Switzerland,L'enfant Que J'étais,Lys Assia,1957,0.006596306,10,8,0.006596306
+9,Austria,"Wohin, Kleines Pony",Bob Martin,1957,0.003957784,5,10,0.003957784
+10,France,Dors Mon Amour,André Claveau,1958,0.035620052,3,1,0.035620052
+11,Switzerland,Giorgio,Lys Assia,1958,0.03166227,10,2,0.03166227
+12,Italy,Nel Blu Dipinto Di Blu,Domenico Modugno,1958,0.017150396,1,3,0.017150396
+13,Sweden,Lilla Stjärna,Alice Babs,1958,0.013192612,5,4,0.013192612
+14,Belgium,Ma Petite Chatte,Fud Leclerc,1958,0.01055409,7,5,0.01055409
+15,Austria,Die Ganze Welt Braucht Liebe,Liane Augustin,1958,0.01055409,9,5,0.01055409
+16,Germany,Für Zwei Groschen Musik,Margot Hielscher,1958,0.006596306,8,7,0.006596306
+17,Denmark,Jeg Rev Et Blad Ud Af Min Dagbog,Raquel Rastenni,1958,0.003957784,6,8,0.003957784
+18,Netherlands,Heel De Wereld,Corry Brokken,1958,0.0013192613,2,9,0.0013192613
+19,Luxembourg,Un Grand Amour,Solange Berry,1958,0.0013192613,4,9,0.0013192613
+20,Netherlands,Een Beetje,Teddy Scholten,1959,0.027704485,5,1,0.027704485
+21,United Kingdom,Sing Little Birdie,Pearl Carr & Teddy Johnson,1959,0.02110818,10,2,0.02110818
+22,France,"Oui, Oui, Oui, Oui",Jean Philippe,1959,0.019788919,1,3,0.019788919
+23,Switzerland,Irgendwoher,Christa Williams,1959,0.018469658,8,4,0.018469658
+24,Denmark,"Uh, Jeg Ville Ønske Jeg Var Dig",Birthe Wilke,1959,0.015831135,2,5,0.015831135
+25,Italy,Piove,Domenico Modugno,1959,0.0118733505,3,6,0.0118733505
+26,Belgium,Hou Toch Van Mij,Bob Benny,1959,0.0118733505,11,6,0.0118733505
+27,Germany,Heut' Woll'n Wir Tanzen Geh'n,Alice and Ellen Kessler,1959,0.006596306,6,8,0.006596306
+28,Sweden,Augustin,Brita Borg,1959,0.005277045,7,9,0.005277045
+29,Austria,Der K. Und K. Kalypso Aus Wien,Ferry Graf,1959,0.005277045,9,9,0.005277045
+30,Monaco,Mon Ami Pierrot,Jacques Pills,1959,0.0013192613,4,11,0.0013192613
+31,France,Tom Pillibi,Jacqueline Boyer,1960,0.04221636,13,1,0.04221636
+32,United Kingdom,"Looking High, High, High",Bryan Johnson,1960,0.03298153,1,2,0.03298153
+33,Monaco,Ce Soir-là,François Deguelt,1960,0.019788919,8,3,0.019788919
+34,Norway,Voi-voi,Nora Brockstedt,1960,0.014511873,6,4,0.014511873
+35,Germany,"Bonne Nuit, Ma Chérie!",Wyn Hoop,1960,0.014511873,11,4,0.014511873
+36,Belgium,Mon Amour Pour Toi,Fud Leclerc,1960,0.0118733505,5,6,0.0118733505
+37,Austria,Du Hast Mich So Fasziniert,Harry Winter,1960,0.007915568,7,7,0.007915568
+38,Switzerland,Cielo E Terra,Anita Traversi,1960,0.006596306,9,8,0.006596306
+39,Italy,Romantica,Renato Rascel,1960,0.006596306,12,8,0.006596306
+40,Sweden,Alla Andra Får Varann,Siw Malmkvist,1960,0.005277045,2,10,0.005277045
+41,Denmark,Det Var En Yndig Tid,Katy Bødtger,1960,0.005277045,4,10,0.005277045
+42,Netherlands,Wat Een Geluk,Rudi Carrell,1960,0.0026385225,10,12,0.0026385225
+43,Luxembourg,So Laang We's Du Do Bast,Camillo Felgen,1960,0.0013192613,3,13,0.0013192613
+44,Luxembourg,Nous Les Amoureux,Jean-Claude Pascal,1961,0.040897097,14,1,0.040897097
+45,United Kingdom,Are You Sure?,The Allisons,1961,0.03166227,15,2,0.03166227
+46,Switzerland,Nous Aurons Demain,Franca di Rienzo,1961,0.02110818,10,3,0.02110818
+47,France,Printemps (avril Carillonne),Jean-Paul Mauric,1961,0.017150396,9,4,0.017150396
+48,Denmark,Angelique,Dario Campeotto,1961,0.015831135,13,5,0.015831135
+49,Italy,Al Di Là,Betty Curtis,1961,0.015831135,16,5,0.015831135
+50,Norway,Sommer i Palma,Nora Brockstedt,1961,0.013192612,12,7,0.013192612
+51,Yugoslavia,Neke Davne Zvezde,Ljiljana Petrović,1961,0.0118733505,5,8,0.0118733505
+52,Spain,Estando Contigo,Conchita Bautista,1961,0.01055409,1,9,0.01055409
+53,Monaco,"Allons, Allons Les Enfants",Colette Deréal,1961,0.007915568,2,10,0.007915568
+54,Finland,Valoa Ikkunassa,Laila Kinnunen,1961,0.007915568,4,10,0.007915568
+55,Netherlands,Wat Een Dag,Greetje Kauffeld,1961,0.007915568,6,10,0.007915568
+56,Germany,Einmal Sehen Wir Uns Wieder,Lale Andersen,1961,0.003957784,8,13,0.003957784
+57,Sweden,"April, April",Lill-Babs,1961,0.0026385225,7,14,0.0026385225
+58,Austria,Sehnsucht,Jimmy Makulis,1961,0.0013192613,3,15,0.0013192613
+59,Belgium,"September, Gouden Roos",Bob Benny,1961,0.0013192613,11,15,0.0013192613
+60,France,Un Premier Amour,Isabelle Aubret,1962,0.034300793,9,1,0.034300793
+61,Monaco,Dis Rien,François Deguelt,1962,0.017150396,16,2,0.017150396
+62,Luxembourg,Petit Bonhomme,Camillo Felgen,1962,0.014511873,14,3,0.014511873
+63,Yugoslavia,Ne Pali Svetlo U Sumrak,Lola Novaković,1962,0.013192612,12,4,0.013192612
+64,United Kingdom,Ring-a-ding Girl,Ronnie Carroll,1962,0.013192612,13,4,0.013192612
+65,Germany,Zwei Kleine Italiener,Conny Froboess,1962,0.0118733505,7,6,0.0118733505
+66,Finland,Tipi-tii,Marion Rung,1962,0.005277045,1,7,0.005277045
+67,Sweden,Sol Och Vår,Inger Berggren,1962,0.005277045,6,7,0.005277045
+68,Italy,"Addio, Addio",Claudio Villa,1962,0.003957784,15,9,0.003957784
+69,Denmark,Vuggevise,Ellen Winther,1962,0.0026385225,5,10,0.0026385225
+70,Norway,"Kom Sol, Kom Regn",Inger Jacobsen,1962,0.0026385225,10,10,0.0026385225
+71,Switzerland,Le Retour,Jean Philippe,1962,0.0026385225,11,10,0.0026385225
+72,Belgium,Ton Nom,Fud Leclerc,1962,0.0,2,13,0.0
+73,Spain,Llámame,Victor Balaguer,1962,0.0,3,13,0.0
+74,Austria,Nur In Der Wiener Luft,Eleonore Schwarz,1962,0.0,4,13,0.0
+75,Netherlands,Katinka,De Spelbrekers,1962,0.0,8,13,0.0
+76,Denmark,Dansevise,Grethe & Jørgen Ingmann,1963,0.05540897,8,1,0.05540897
+77,Switzerland,T'en Va Pas,Esther Ofarim,1963,0.052770447,10,2,0.052770447
+78,Italy,Uno Per Tutte,Emilio Pericoli,1963,0.048812665,6,3,0.048812665
+79,United Kingdom,Say Wonderful Things,Ronnie Carroll,1963,0.036939315,1,4,0.036939315
+80,France,Elle était Si Jolie,Alain Barrière,1963,0.03298153,11,5,0.03298153
+81,Monaco,L'amour S'en Va,Françoise Hardy,1963,0.03298153,15,5,0.03298153
+82,Austria,Vielleicht Geschieht Ein Wunder,Carmela Corren,1963,0.02110818,4,7,0.02110818
+83,Luxembourg,A Force De Prier,Nana Mouskouri,1963,0.017150396,16,8,0.017150396
+84,Germany,Marcel,Heidi Brühl,1963,0.006596306,3,9,0.006596306
+85,Belgium,Waarom,Jacques Raymond,1963,0.005277045,14,10,0.005277045
+86,Yugoslavia,Brodovi,Vice Vukov,1963,0.003957784,9,11,0.003957784
+87,Spain,Algo Prodigioso,José Guardiola,1963,0.0026385225,12,12,0.0026385225
+88,Netherlands,Een Speeldoos,Annie Palmen,1963,0.0,2,13,0.0
+89,Norway,Solhverv,Anita Thallaug,1963,0.0,5,13,0.0
+90,Finland,Muistojeni Laulu,Laila Halme,1963,0.0,7,13,0.0
+91,Sweden,En Gång I Stockholm,Monica Zetterlund,1963,0.0,13,13,0.0
+92,Italy,Non Ho L'étà,Gigliola Cinquetti,1964,0.0646438,12,1,0.0646438
+93,United Kingdom,I Love The Little Things,Matt Monro,1964,0.022427442,8,2,0.022427442
+94,Monaco,Où Sont-elles Passées?,Romuald,1964,0.019788919,10,3,0.019788919
+95,Luxembourg,Dès Que Le Printemps Revient,Hugues Aufray,1964,0.018469658,1,4,0.018469658
+96,France,Le Chant De Mallory,Rachel,1964,0.018469658,7,4,0.018469658
+97,Austria,"Warum Nur, Warum?",Udo Jürgens,1964,0.014511873,6,6,0.014511873
+98,Finland,Laiskotellen,Lasse Mårtenson,1964,0.0118733505,5,7,0.0118733505
+99,Norway,Spiral,Arne Bendiksen,1964,0.007915568,3,8,0.007915568
+100,Denmark,Sangen Om Dig,Bjørn Tidmand,1964,0.005277045,4,9,0.005277045
+101,Netherlands,Jij Bent Mijn Leven,Anneke Grönloh,1964,0.0026385225,2,10,0.0026385225
+102,Belgium,Près De Ma Rivière,Robert Cogoi,1964,0.0026385225,15,10,0.0026385225
+103,Spain,Caracola,"Tim, Nelly and Tony",1964,0.0013192613,16,12,0.0013192613
+104,Germany,Man Gewöhnt Sich So Schnell An Das Schöne,Nora Nova,1964,0.0,9,13,0.0
+105,Portugal,Oração,António Calvário,1964,0.0,11,13,0.0
+106,Yugoslavia,Život je sklopio krug,Sabahudin Kurt,1964,0.0,13,13,0.0
+107,Switzerland,I Miei Pensieri,Anita Traversi,1964,0.0,14,13,0.0
+108,Luxembourg,"Poupée De Cire, Poupée De Son",France Gall,1965,0.04221636,15,1,0.04221636
+109,United Kingdom,I Belong,Kathy Kirby,1965,0.034300793,2,2,0.034300793
+110,France,N'avoue Jamais,Guy Mardel,1965,0.029023746,11,3,0.029023746
+111,Austria,"Sag Ihr, Ich Lass' Sie Grüßen",Udo Jürgens,1965,0.02110818,6,4,0.02110818
+112,Italy,"Se Piangi, Se Ridi",Bobby Solo,1965,0.019788919,13,5,0.019788919
+113,Ireland,I'm Walking The Streets In The Rain,Butch Moore,1965,0.014511873,4,6,0.014511873
+114,Denmark,For Din Skyld,Birgit Brüel,1965,0.013192612,14,7,0.013192612
+115,Switzerland,Non à Jamais Sans Toi,Yovanna,1965,0.01055409,18,8,0.01055409
+116,Monaco,Va Dire à L'amour,Marjorie Noël,1965,0.009234829,9,9,0.009234829
+117,Sweden,Absent Friend,Ingvar Wixell,1965,0.007915568,10,10,0.007915568
+118,Netherlands,Het Is Genoeg,Conny Van den bos,1965,0.006596306,1,11,0.006596306
+119,Yugoslavia,Ceznja,Vice Vukov,1965,0.0026385225,17,12,0.0026385225
+120,Norway,Karusell,Kirsti Sparboe,1965,0.0013192613,7,13,0.0013192613
+121,Portugal,Sol De Inverno,Simone de Oliveira,1965,0.0013192613,12,13,0.0013192613
+122,Spain,"Qué Bueno, Qué Bueno",Conchita Bautista,1965,0.0,3,15,0.0
+123,Germany,"Paradies, Wo Bist Du?",Ulla Wiesner,1965,0.0,5,15,0.0
+124,Belgium,Als Het Weer Lente Is,Lize Marke,1965,0.0,8,15,0.0
+125,Finland,Aurinko Laskee Länteen,Viktor Klimenko,1965,0.0,16,15,0.0
+126,Austria,Merci Chérie,Udo Jürgens,1966,0.040897097,9,1,0.040897097
+127,Sweden,Nygammal Vals,Lill Lindfors & Svante Thuresson,1966,0.02110818,10,2,0.02110818
+128,Norway,Intet Er Nytt Under Solen,Åse Kleveland,1966,0.019788919,6,3,0.019788919
+129,Belgium,"Un Peu De Poivre, Un Peu De Sel",Tonia,1966,0.018469658,3,4,0.018469658
+130,Ireland,Come Back To Stay,Dickie Rock,1966,0.018469658,17,4,0.018469658
+131,Switzerland,Ne Vois-tu Pas?,Madeleine Pascal,1966,0.015831135,12,6,0.015831135
+132,Yugoslavia,Brez Besed,Berta Ambroz,1966,0.0118733505,5,7,0.0118733505
+133,Spain,Yo Soy Aquél,Raphael,1966,0.0118733505,11,7,0.0118733505
+134,United Kingdom,A Man Without Love,Kenneth McKellar,1966,0.01055409,18,9,0.01055409
+135,Germany,Die Zeiger Der Uhr,Margot Eskens,1966,0.009234829,1,10,0.009234829
+136,Luxembourg,Ce Soir Je T'attendais,Michèle Torr,1966,0.009234829,4,10,0.009234829
+137,Finland,Play-boy,Ann-Christine Nyström,1966,0.009234829,7,10,0.009234829
+138,Portugal,Ele E Ela,Madalena Iglesias,1966,0.007915568,8,13,0.007915568
+139,Denmark,"Stop, Ja Stop - Ja Stop, Mens Legen Er Go",Ulla Pia,1966,0.005277045,2,14,0.005277045
+140,Netherlands,Fernando En Philippo,Milly Scott,1966,0.0026385225,16,15,0.0026385225
+141,France,Chez Nous,Dominique Walter,1966,0.0013192613,15,16,0.0013192613
+142,Monaco,Bien Plus Fort,Tereza,1966,0.0,13,17,0.0
+143,Italy,Dio Come Ti Amo,Domenico Modugno,1966,0.0,14,17,0.0
+144,United Kingdom,Puppet On A String,Sandie Shaw,1967,0.062005278,11,1,0.062005278
+145,Ireland,If I Could Choose,Sean Dunphy,1967,0.029023746,17,2,0.029023746
+146,France,Il Doit Faire Beau Là-bas,Noëlle Cordier,1967,0.026385223,4,3,0.026385223
+147,Luxembourg,L'amour Est Bleu,Vicky,1967,0.022427442,2,4,0.022427442
+148,Monaco,Boum-badaboum,Minouche Barelli,1967,0.013192612,14,5,0.013192612
+149,Spain,Hablemos Del Amor,Raphael,1967,0.0118733505,12,6,0.0118733505
+150,Belgium,Ik Heb Zorgen,Louis Neefs,1967,0.01055409,10,7,0.01055409
+151,Sweden,Som En Dröm,Östen Warnerbring,1967,0.009234829,7,8,0.009234829
+152,Germany,Anouschka,Inge Brück,1967,0.009234829,9,8,0.009234829
+153,Yugoslavia,Vse Rože Sveta,Lado Leskovar,1967,0.009234829,15,8,0.009234829
+154,Italy,Non Andare Più Lontano,Claudio Villa,1967,0.005277045,16,11,0.005277045
+155,Portugal,O Vento Mudou,Eduardo Nascimento,1967,0.003957784,5,12,0.003957784
+156,Finland,Varjoon-suojaan,Fredi,1967,0.003957784,8,12,0.003957784
+157,Netherlands,Ring-dinge,Thérèse Steinmetz,1967,0.0026385225,1,14,0.0026385225
+158,Austria,Warum Es Hunderttausend Sterne Gibt,Peter Horten,1967,0.0026385225,3,14,0.0026385225
+159,Norway,Dukkemann,Kirsti Sparboe,1967,0.0026385225,13,14,0.0026385225
+160,Switzerland,Quel Cœur Vas-tu Briser?,Géraldine,1967,0.0,6,17,0.0
+161,Spain,"La, La, La...",Massiel,1968,0.038258575,15,1,0.038258575
+162,United Kingdom,Congratulations,Cliff Richard,1968,0.036939315,12,2,0.036939315
+163,France,La Source,Isabelle Aubret,1968,0.026385223,10,3,0.026385223
+164,Ireland,Chance Of A Lifetime,Pat McGeegan,1968,0.023746701,14,4,0.023746701
+165,Sweden,"Det Börjar Verka Kärlek, Banne Mej",Claes-Göran Hederström,1968,0.019788919,8,5,0.019788919
+166,Germany,Ein Hoch Der Liebe,Wencke Myhre,1968,0.014511873,16,6,0.014511873
+167,Belgium,Quand Tu Reviendras,Claude Lombard,1968,0.01055409,3,7,0.01055409
+168,Monaco,A Chacun Sa Chanson,Line & Willy,1968,0.01055409,7,7,0.01055409
+169,Yugoslavia,Jedan Dan,Luci Kapurso & Hamo Hajdarhodzic,1968,0.01055409,17,7,0.01055409
+170,Italy,Marianne,Sergio Endrigo,1968,0.009234829,11,10,0.009234829
+171,Portugal,Verão,Carlos Mendes,1968,0.006596306,1,11,0.006596306
+172,Luxembourg,Nous Vivrons D'amour,Chris Baldo & Sophie Garel,1968,0.006596306,5,11,0.006596306
+173,Austria,Tausend Fenster,Karel Gott,1968,0.0026385225,4,13,0.0026385225
+174,Switzerland,Guardando Il Sole,Gianni Mascolo,1968,0.0026385225,6,13,0.0026385225
+175,Norway,Stress,Odd Børre,1968,0.0026385225,13,13,0.0026385225
+176,Netherlands,Morgen,Ronnie Tober,1968,0.0013192613,2,16,0.0013192613
+177,Finland,Kun Kello Käy,Kristina Hautala,1968,0.0013192613,9,16,0.0013192613
+178,Spain,Vivo Cantando,Salomé,1969,0.023746701,3,1,0.023746701
+179,United Kingdom,Boom Bang-a-bang,Lulu,1969,0.023746701,7,1,0.023746701
+180,Netherlands,De Troubadour,Lenny Kuhr,1969,0.023746701,8,1,0.023746701
+181,France,"Un Jour, Un Enfant",Frida Boccara,1969,0.023746701,14,1,0.023746701
+182,Switzerland,"Bonjour, Bonjour",Paola del Medico,1969,0.017150396,11,5,0.017150396
+183,Monaco,"Maman, Maman",Jean-Jacques,1969,0.014511873,4,6,0.014511873
+184,Ireland,The Wages Of Love,Muriel Day and the Lindsays,1969,0.013192612,5,7,0.013192612
+185,Belgium,Jennifer Jennings,Louis Neefs,1969,0.013192612,10,7,0.013192612
+186,Sweden,"Judy, Min Vän",Tommy Körberg,1969,0.01055409,9,9,0.01055409
+187,Germany,Primaballerina,Siw Malmkvist,1969,0.01055409,13,9,0.01055409
+188,Luxembourg,Cathérine,Romuald,1969,0.009234829,2,11,0.009234829
+189,Finland,Kuin Silloin Ennen,Jarkko & Laura,1969,0.007915568,16,12,0.007915568
+190,Yugoslavia,Pozdrav Svijetu,Ivan & M's,1969,0.006596306,1,13,0.006596306
+191,Italy,Due Grosse Lacrime Bianche,Iva Zanicchi,1969,0.006596306,6,13,0.006596306
+192,Portugal,Desfolhada Portuguesa,Simone de Oliveira,1969,0.005277045,15,15,0.005277045
+193,Norway,"Oj, Oj, Oj, Så Glad, Jeg Skal Bli",Kirsti Sparboe,1969,0.0013192613,12,16,0.0013192613
+194,Ireland,All Kinds Of Everything,Dana,1970,0.04221636,12,1,0.04221636
+195,United Kingdom,"Knock, Knock (who's there?)",Mary Hopkin,1970,0.034300793,7,2,0.034300793
+196,Germany,Wunder Gibt Es Immer Wieder,Katja Ebstein,1970,0.015831135,11,3,0.015831135
+197,Switzerland,Retour,Henri Dès,1970,0.01055409,2,4,0.01055409
+198,France,Marie Blanche,Guy Bonnet,1970,0.01055409,6,4,0.01055409
+199,Spain,Gwendolyne,Julio Iglesias,1970,0.01055409,9,4,0.01055409
+200,Netherlands,Waterman,Patricia & Hearts of Soul,1970,0.009234829,1,7,0.009234829
+201,Italy,Occhi Di Ragazza,Gianni Morandi,1970,0.006596306,3,8,0.006596306
+202,Belgium,Viens L'oublier,Jean Vallée,1970,0.006596306,5,8,0.006596306
+203,Monaco,Marlène,Dominique Dussault,1970,0.006596306,10,8,0.006596306
+204,Yugoslavia,"Pridi, Dala Ti Bom Cvet",Eva Sršen,1970,0.005277045,4,11,0.005277045
+205,Luxembourg,Je Suis Tombé Du Ciel,David-Alexandre Winter,1970,0.0,8,12,0.0
+206,Monaco,"Un Banc, Un Arbre, Une Rue",Séverine,1971,0.16886544,3,1,0.16886544
+207,Spain,En Un Mundo Nuevo,Karina,1971,0.1530343,6,2,0.1530343
+208,Germany,Diese Welt,Katja Ebstein,1971,0.13192612,5,3,0.13192612
+209,United Kingdom,Jack In The Box,Clodagh Rodgers,1971,0.1292876,9,4,0.1292876
+210,Italy,L'amore è Un Attimo,Massimo Ranieri,1971,0.12005277,11,5,0.12005277
+211,Sweden,Vita Vidder,Family Four,1971,0.112137206,12,6,0.112137206
+212,Netherlands,De Tijd,Saskia and Serge,1971,0.112137206,14,6,0.112137206
+213,Finland,Tie Uuteen Päivään,Markku Aro and Koivisto Sisters,1971,0.11081794,17,8,0.11081794
+214,Portugal,Menina Do Alto Da Serra,Tonicha,1971,0.10949868,15,9,0.10949868
+215,France,Un Jardin Sur La Terre,Serge Lama,1971,0.10817942,7,10,0.10817942
+216,Ireland,One Day Love,Angela Farrell,1971,0.104221635,13,11,0.104221635
+217,Switzerland,Les Illusions De Nos Vingt Ans,"Peter, Sue and Marc",1971,0.102902375,4,12,0.102902375
+218,Luxembourg,"Pomme, Pomme, Pomme",Monique Melsen,1971,0.092348285,8,13,0.092348285
+219,Belgium,"Goeie Morgen, Morgen",Lily Castel and Jacques Raymond,1971,0.089709766,10,14,0.089709766
+220,Yugoslavia,Tvoj Djecak Je Tuzan,Krunoslav Slabinac,1971,0.089709766,16,14,0.089709766
+221,Austria,Musik,Marianne Mendt,1971,0.08707124,1,16,0.08707124
+222,Norway,Lykken Er...,Hanne Krogh,1971,0.08575198,18,17,0.08575198
+223,Malta,Marija L-Maltija,Joe Grech,1971,0.068601586,2,18,0.068601586
+224,Luxembourg,Après Toi,Vicky Leandros,1972,0.16886544,17,1,0.16886544
+225,United Kingdom,"Beg, Steal or Borrow",The New Seekers,1972,0.15039578,5,2,0.15039578
+226,Germany,Nur Die Liebe Läßt Uns Leben,Mary Roos,1972,0.14116095,1,3,0.14116095
+227,Netherlands,Als Het Om De Liefde Gaat,Sandra & Andres,1972,0.13984169,18,4,0.13984169
+228,Austria,Falter Im Wind,The Milestones,1972,0.13192612,11,5,0.13192612
+229,Italy,I Giorni Dell' Arcobaleno,Nicola di Bari,1972,0.12137203,12,6,0.12137203
+230,Portugal,A Festa Da Vida,Carlos Mendes,1972,0.11873351,7,7,0.11873351
+231,Switzerland,C'est La Chanson De Mon Amour,Véronique Müller,1972,0.116094984,8,8,0.116094984
+232,Yugoslavia,Muzika I Ti,Tereza,1972,0.114775725,13,9,0.114775725
+233,Spain,Amanece,Jaime Morey,1972,0.10949868,4,10,0.10949868
+234,France,Comé-comédie,Betty Mars,1972,0.10686016,2,11,0.10686016
+235,Finland,Muistathan,Päivi Paunu and Kim Floor,1972,0.102902375,10,12,0.102902375
+236,Sweden,Härliga Sommardag,Family Four,1972,0.09894459,14,13,0.09894459
+237,Norway,Småting,Grethe Kausland & Benny Borg,1972,0.09630607,6,14,0.09630607
+238,Ireland,Ceol On Ghrá,Sandie Jones,1972,0.094986804,3,15,0.094986804
+239,Monaco,Comme On S'aime,Anne-Marie Godart and Peter MacLane,1972,0.08575198,15,16,0.08575198
+240,Belgium,À La Folie Ou Pas Du Tout,Serge and Christine Ghisoland,1972,0.072559364,16,17,0.072559364
+241,Malta,L-imħabba,Helen & Joseph,1972,0.06332454,9,18,0.06332454
+242,Luxembourg,Tu Te Reconnaîtras,Anne-Marie David,1973,0.1701847,11,1,0.1701847
+243,Spain,Eres Tú,Mocedades,1973,0.16490765,7,2,0.16490765
+244,United Kingdom,Power To All Our Friends,Cliff Richard,1973,0.16226913,15,3,0.16226913
+245,Israel,Ey-sham,Ilanit,1973,0.12796834,17,4,0.12796834
+246,Sweden,You're Summer,The Nova and The Dolls,1973,0.124010555,12,5,0.124010555
+247,Finland,Tom Tom Tom,Marion Rung,1973,0.122691296,1,6,0.122691296
+248,Norway,It's Just A Game,Bendik Singers,1973,0.11741425,5,7,0.11741425
+249,Germany,Junger Tag,Gitte,1973,0.112137206,4,8,0.112137206
+250,Monaco,Un Train Qui Part,Marie,1973,0.112137206,6,8,0.112137206
+251,Portugal,Tourada,Fernando Tordo,1973,0.105540894,3,10,0.105540894
+252,Ireland,Do I Dream?,Maxi,1973,0.105540894,14,10,0.105540894
+253,Switzerland,"Je vais me marier, Marie",Patrick Juvet,1973,0.104221635,8,12,0.104221635
+254,Italy,Chi Sarà Con Te,Massimo Ranieri,1973,0.09762533,10,13,0.09762533
+255,Netherlands,De Oude Muzikant,Ben Cramer,1973,0.091029026,13,14,0.091029026
+256,Yugoslavia,Gori Vatra,Zdravko Colic,1973,0.08575198,9,15,0.08575198
+257,France,Sans Toi,Martine Clémenceau,1973,0.08575198,16,15,0.08575198
+258,Belgium,"Baby, Baby",Nicole and Hugo,1973,0.07651715,2,17,0.07651715
+259,Sweden,Waterloo,ABBA,1974,0.03166227,8,1,0.03166227
+260,Italy,Si,Gigliola Cinquetti,1974,0.023746701,17,2,0.023746701
+261,Netherlands,I See A Star,Mouth & MacNeal,1974,0.019788919,12,3,0.019788919
+262,United Kingdom,Long Live Love,Olivia Newton-John,1974,0.018469658,2,4,0.018469658
+263,Luxembourg,"Bye, Bye, I Love You",Ireen Sheer,1974,0.018469658,9,4,0.018469658
+264,Monaco,Celui Qui Reste Et Celui Qui S'en Va,Romuald,1974,0.018469658,10,4,0.018469658
+265,Israel,Natati La Khayay,Kaveret (Poogy),1974,0.014511873,6,7,0.014511873
+266,Ireland,Cross Your Heart,Tina,1974,0.014511873,13,7,0.014511873
+267,Spain,Canta Y Se Feliz,Peret,1974,0.013192612,3,9,0.013192612
+268,Belgium,Fleur De Liberté,Jacques Hustin,1974,0.013192612,11,9,0.013192612
+269,Greece,"Krassi, Thalassa Ke T'agori Mou",Marinella,1974,0.009234829,5,11,0.009234829
+270,Yugoslavia,Moja Generacija,Korni,1974,0.007915568,7,12,0.007915568
+271,Finland,Äla Mene Pois (keep Me Warm),Carita,1974,0.005277045,1,13,0.005277045
+272,Norway,The First Day Of Love,Anne-Karine Ström and the Bendik Singers,1974,0.003957784,4,14,0.003957784
+273,Germany,Die Sommermelodie,Cindy und Bert,1974,0.003957784,14,14,0.003957784
+274,Switzerland,Mein Ruf Nach Dir,Piera Martell,1974,0.003957784,15,14,0.003957784
+275,Portugal,E Depois Do Adeus,Paulo de Carvalho,1974,0.003957784,16,14,0.003957784
+276,Netherlands,Ding-A-Dong,Teach-In,1975,0.2005277,1,1,0.2005277
+277,United Kingdom,Let Me Be The One,The Shadows,1975,0.18205805,9,2,0.18205805
+278,Italy,Era,Wess & Dori Ghezzi,1975,0.15171504,19,3,0.15171504
+279,France,Et Bonjour à Toi L'artiste,Nicole Rieu,1975,0.12005277,3,4,0.12005277
+280,Luxembourg,Toi,Géraldine,1975,0.11081794,5,5,0.11081794
+281,Switzerland,Mikado,Simone Drexel,1975,0.101583116,7,6,0.101583116
+282,Finland,Old Man Fiddle,Pihasoittajat,1975,0.09762533,15,7,0.09762533
+283,Sweden,"Jennie, Jennie",Lars Berghagen and the Dolls,1975,0.094986804,18,8,0.094986804
+284,Ireland,That's What Friends Are For,The Swarbriggs,1975,0.089709766,2,9,0.089709766
+285,Spain,Tú Volverás,Sergio & Estíbaliz,1975,0.069920845,17,10,0.069920845
+286,Israel,At Va'Ani,Shlomo Artzi,1975,0.052770447,12,11,0.052770447
+287,Malta,Singing This Song,Renato,1975,0.04221636,10,12,0.04221636
+288,Yugoslavia,Dan Ljubezni,Pepel In Kri,1975,0.029023746,8,13,0.029023746
+289,Monaco,Une Chanson C'est Une Lettre,Sophie,1975,0.029023746,14,13,0.029023746
+290,Belgium,Gelukkig Zijn,Ann Christy,1975,0.022427442,11,15,0.022427442
+291,Portugal,Madrugada,Duarte Mendes,1975,0.02110818,16,16,0.02110818
+292,Germany,Ein Lied Kann Eine Brücke Sein,Joy Fleming,1975,0.019788919,4,17,0.019788919
+293,Norway,You Touched My Life With Summer,Ellen Nikolaysen,1975,0.014511873,6,18,0.014511873
+294,Turkey,Seninle Bir Dakika,Semiha Yankı,1975,0.003957784,13,19,0.003957784
+295,United Kingdom,Save Your Kisses For Me,Brotherhood of Man,1976,0.21635884,1,1,0.21635884
+296,France,"Un, Deux, Trois",Catherine Ferry,1976,0.1939314,17,2,0.1939314
+297,Monaco,"Toi, La Musique Et Moi",Mary Christy,1976,0.122691296,16,3,0.122691296
+298,Switzerland,"Djambo, Djambo","Peter, Sue & Marc",1976,0.12005277,2,4,0.12005277
+299,Austria,My Little World,Waterloo & Robinson,1976,0.105540894,14,5,0.105540894
+300,Israel,Emor Shalom,"Chocolate, Menta, Mastik",1976,0.101583116,4,6,0.101583116
+301,Italy,We'll Live It All Again,Romina and Al Bano,1976,0.091029026,13,7,0.091029026
+302,Belgium,Judy Et Cie.,Pierre Rapsat,1976,0.089709766,6,8,0.089709766
+303,Netherlands,The Party's Over Now,Sandra Reemer,1976,0.07387863,8,9,0.07387863
+304,Ireland,When,Red Hurley,1976,0.071240105,7,10,0.071240105
+305,Finland,Pump-pump,Fredi and The Friends,1976,0.058047492,11,11,0.058047492
+306,Portugal,Uma Flor De Verde Pinho,Carlos do Carmo,1976,0.03166227,15,12,0.03166227
+307,Greece,"Panaghia Mou, Panaghia Mou",Mariza Koch,1976,0.026385223,10,13,0.026385223
+308,Luxembourg,Chansons Pour Ceux Qui S'aiment,Jürgen Marcus,1976,0.022427442,5,14,0.022427442
+309,Germany,"Sing, Sang, Song",Les Humphries Singers,1976,0.015831135,3,15,0.015831135
+310,Spain,Sobran Las Palabras,Braulio,1976,0.014511873,12,16,0.014511873
+311,Yugoslavia,Ne Mogu Skriti Svoju Bol,Ambasadori,1976,0.013192612,18,17,0.013192612
+312,Norway,Mata Hari,Anne-Karine Ström,1976,0.009234829,9,18,0.009234829
+313,France,L'oiseau Et L'enfant,Marie Myriam,1977,0.17941953,18,1,0.17941953
+314,United Kingdom,Rock Bottom,Lynsey de Paul & Mike Moran,1977,0.15963061,9,2,0.15963061
+315,Ireland,It's Nice To Be In Love Again,The Swarbriggs Plus Two,1977,0.15699208,1,3,0.15699208
+316,Monaco,Une Petite Française,Michèle Torr,1977,0.12664908,2,4,0.12664908
+317,Greece,Mathima Solfez,"Pascalis, Marianna, Robert and Bessy",1977,0.12137203,10,5,0.12137203
+318,Switzerland,Swiss Lady,Pepe Lienhard Band,1977,0.093667544,12,6,0.093667544
+319,Belgium,"A Million In One, Two, Three",Dream Express,1977,0.091029026,17,7,0.091029026
+320,Germany,Telegram,Silver Convention,1977,0.072559364,6,8,0.072559364
+321,Spain,Enseñame A Cantar,Micky,1977,0.068601586,14,9,0.068601586
+322,Finland,Lapponia,Monica Aspelund,1977,0.06596306,16,10,0.06596306
+323,Israel,Ah-haa-vah Hee Shir Lish-naa-yim,Ilanit,1977,0.0646438,11,11,0.0646438
+324,Netherlands,De Mallemolen,Heddy Lester,1977,0.046174143,3,12,0.046174143
+325,Italy,Liberà,Mia Martini,1977,0.04353562,15,13,0.04353562
+326,Norway,Casanova,Anita Skorgan,1977,0.023746701,5,14,0.023746701
+327,Portugal,Portugal No Coração,Os Amigos,1977,0.023746701,8,14,0.023746701
+328,Luxembourg,Frère Jacques,Anne Marie B.,1977,0.022427442,7,16,0.022427442
+329,Austria,Boom Boom Boomerang,Schmetterlinge,1977,0.014511873,4,17,0.014511873
+330,Sweden,Beatles,Forbes,1977,0.0026385225,13,18,0.0026385225
+331,Israel,A-Ba-Ni-Bi,Izhar Cohen and the Alphabeta,1978,0.20712401,18,1,0.20712401
+332,Belgium,L'amour ça Fait Chanter La Vie,Jean Vallée,1978,0.16490765,10,2,0.16490765
+333,France,Il Y Aura Toujours Des Violons,Joël Prévost,1978,0.15699208,6,3,0.15699208
+334,Monaco,Les Jardins De Monaco,Caline and Olivier Toussaint,1978,0.14116095,14,4,0.14116095
+335,Ireland,Born To Sing,Colm T. Wilkinson,1978,0.113456465,1,5,0.113456465
+336,Germany,Feuer,Ireen Sheer,1978,0.11081794,13,6,0.11081794
+337,Luxembourg,Parlez-vous Français?,Baccara,1978,0.09630607,17,7,0.09630607
+338,Greece,Charlie Chaplin,Tania Tsanaklidou,1978,0.08707124,15,8,0.08707124
+339,Spain,Bailemos Un Vals,José Vélez,1978,0.08575198,7,9,0.08575198
+340,Switzerland,Vivre,Carole Vinci,1978,0.08575198,9,9,0.08575198
+341,United Kingdom,The Bad Old Days,Co-Co,1978,0.080474935,8,11,0.080474935
+342,Italy,Questo Amore,Ricchi e Poveri,1978,0.069920845,3,12,0.069920845
+343,Netherlands,'t Is Ok,Harmony,1978,0.048812665,11,13,0.048812665
+344,Sweden,Det Blir Alltid Värre Framåt Natten,Björn Skifs,1978,0.034300793,20,14,0.034300793
+345,Austria,Mrs. Caroline Robinson,Springtime,1978,0.018469658,19,15,0.018469658
+346,Denmark,Boom Boom,Mabel,1978,0.017150396,16,16,0.017150396
+347,Portugal,Dai-li-dou,Gemini,1978,0.006596306,5,17,0.006596306
+348,Finland,Anna Rakkaudelle Tilaisuus,Seija Simola,1978,0.0026385225,4,18,0.0026385225
+349,Turkey,Sevince,Nazar,1978,0.0026385225,12,18,0.0026385225
+350,Norway,Mil Etter Mil,Jahn Teigen,1978,0.0,2,20,0.0
+351,Israel,Hallelujah,Milk and Honey,1979,0.16490765,10,1,0.16490765
+352,Spain,Su Canción,Betty Missiego,1979,0.1530343,19,2,0.1530343
+353,France,Je Suis L'enfant-soleil,Anne-Marie David,1979,0.13984169,11,3,0.13984169
+354,Germany,Dschinghis Khan,Dschinghis Khan,1979,0.113456465,9,4,0.113456465
+355,Ireland,Happy Man,Cathal Dunne,1979,0.105540894,4,5,0.105540894
+356,Denmark,Disco Tango,Tommy Seebach,1979,0.10026385,3,6,0.10026385
+357,United Kingdom,Mary Ann,Black Lace,1979,0.09630607,17,7,0.09630607
+358,Greece,Socrati,Elpida,1979,0.091029026,7,8,0.091029026
+359,Portugal,"Sobe, Sobe, Balão Sobe",Manuela Bravo,1979,0.08443272,1,9,0.08443272
+360,Switzerland,Trödler Und Co.,"Peter, Sue & Marc and Pfuri, Gorps & Kniri",1979,0.079155676,8,10,0.079155676
+361,Norway,Oliver,Anita Skorgan,1979,0.07519789,16,11,0.07519789
+362,Netherlands,Colorado,Xandra,1979,0.06728232,14,12,0.06728232
+363,Luxembourg,J'ai Déjà Vu ça Dans Tes Yeux,Jeane Manson,1979,0.058047492,13,13,0.058047492
+364,Finland,Katson Sineen Taivaan,Katri-Helena,1979,0.050131924,5,14,0.050131924
+365,Italy,Raggio Di Luna,Matia Bazar,1979,0.035620052,2,15,0.035620052
+366,Monaco,"Notre Vie, C'est La Musique",Laurent Vaguener,1979,0.015831135,6,16,0.015831135
+367,Sweden,Satellit,Ted Gärdestad,1979,0.01055409,15,17,0.01055409
+368,Belgium,Hey Nana,Micha Marah,1979,0.006596306,12,18,0.006596306
+369,Austria,Heute In Jerusalem,Christina Simon,1979,0.006596306,18,18,0.006596306
+370,Ireland,What's Another Year,Johnny Logan,1980,0.18865435,17,1,0.18865435
+371,Germany,Theater,Katja Ebstein,1980,0.16886544,12,2,0.16886544
+372,United Kingdom,Love Enough For Two,Prima Donna,1980,0.13984169,13,3,0.13984169
+373,Switzerland,Cinéma,Paola,1980,0.13720317,9,4,0.13720317
+374,Netherlands,Amsterdam,Maggie MacNeal,1980,0.122691296,15,5,0.122691296
+375,Italy,Non So Che Darei,Alan Sorrenti,1980,0.114775725,6,6,0.114775725
+376,Portugal,"Um Grande, Grande Amor",José Cid,1980,0.093667544,14,7,0.093667544
+377,Austria,Du Bist Musik,Blue Danube,1980,0.08443272,1,8,0.08443272
+378,Luxembourg,Papa Pingouin,Sophie and Magaly,1980,0.07387863,4,9,0.07387863
+379,Sweden,Just Nu!,Tomas Ledin,1980,0.062005278,8,10,0.062005278
+380,France,"Hé, Hé M'sieurs Dames",Profil,1980,0.059366755,16,11,0.059366755
+381,Spain,Quédate Esta Noche,Trigo Limpio,1980,0.050131924,18,12,0.050131924
+382,Greece,Otostop,Anna Vissi and the Epikouri,1980,0.039577838,3,13,0.039577838
+383,Denmark,Tænker Altid På Dig,Bamses Venner,1980,0.03298153,7,14,0.03298153
+384,Turkey,Petr'oil,Ajda Pekkan,1980,0.030343007,2,15,0.030343007
+385,Norway,Sámiid Ædnan,Sverre Kjellsberg & Mattis Hætta,1980,0.019788919,11,16,0.019788919
+386,Belgium,Euro-vision,Telex,1980,0.018469658,19,17,0.018469658
+387,Morocco,Bitakat Hob,Samira Bensaïd,1980,0.009234829,5,18,0.009234829
+388,Finland,Huilumies,Vesa-Matti Loiri,1980,0.007915568,10,19,0.007915568
+389,United Kingdom,Making Your Mind Up,Bucks Fizz,1981,0.17941953,14,1,0.17941953
+390,Germany,Johnny Blue,Lena Valaitis,1981,0.17414248,3,2,0.17414248
+391,France,Humanahum,Jean Gabilou,1981,0.16490765,9,3,0.16490765
+392,Switzerland,Io Senza Tei,"Peter, Sue & Marc",1981,0.15963061,19,4,0.15963061
+393,Ireland,Horoscopes,Sheeba,1981,0.13852243,12,5,0.13852243
+394,Cyprus,Monika,Island,1981,0.091029026,18,6,0.091029026
+395,Israel,Halaylah,Habibi,1981,0.07387863,5,7,0.07387863
+396,Greece,Feggari Kalokerino,Yiannis Dimitras,1981,0.072559364,17,8,0.072559364
+397,Netherlands,Het Is Een Wonder,Linda Williams,1981,0.06728232,11,9,0.06728232
+398,Sweden,Fångad I En Dröm,Björn Skifs,1981,0.06596306,20,10,0.06596306
+399,Luxembourg,C'est Peut-être Pas L'Amérique,Jean-Claude Pascal,1981,0.05408971,4,11,0.05408971
+400,Denmark,Krøller Eller Ej,Debbie Cameron & Tommy Seebach,1981,0.05408971,6,11,0.05408971
+401,Belgium,Samson,Emly Starr,1981,0.052770447,16,13,0.052770447
+402,Spain,Y Solo Tú,Bacchelli,1981,0.050131924,10,14,0.050131924
+403,Yugoslavia,Leila,Seid-Memic Vajta,1981,0.046174143,7,15,0.046174143
+404,Finland,Reggae O.k.,Riki Sorsa,1981,0.035620052,8,16,0.035620052
+405,Austria,Wenn Du Da Bist,Marty Brem,1981,0.026385223,1,17,0.026385223
+406,Turkey,Dönme Dolap,Modern Folk Trio and Aysegül,1981,0.0118733505,2,18,0.0118733505
+407,Portugal,Play-back,Carlos Paião,1981,0.0118733505,15,18,0.0118733505
+408,Norway,Aldri i Livet,Finn Kalvik,1981,0.0,13,20,0.0
+409,Germany,Ein Bißchen Frieden,Nicole,1982,0.21240106,18,1,0.21240106
+410,Israel,Hora,Avi Toledano,1982,0.13192612,15,2,0.13192612
+411,Switzerland,Amour On T'aime,Arlette Zola,1982,0.12796834,7,3,0.12796834
+412,Belgium,Si Tu Aimes Ma Musique,Stella,1982,0.12664908,11,4,0.12664908
+413,Cyprus,Mono I Agapi,Anna Vissi,1982,0.112137206,8,5,0.112137206
+414,Luxembourg,Cour Apres Le Temps,Svetlana,1982,0.102902375,2,6,0.102902375
+415,United Kingdom,One Step Further,Bardo,1982,0.10026385,4,7,0.10026385
+416,Sweden,Dag Efter Dag,Chips,1982,0.0883905,9,8,0.0883905
+417,Austria,Sonntag,Mess,1982,0.07519789,10,9,0.07519789
+418,Spain,Él,Lucía,1982,0.068601586,12,10,0.068601586
+419,Ireland,"Here Today, Gone Tomorrow",The Duskeys,1982,0.0646438,17,11,0.0646438
+420,Norway,Adieu,Jahn Teigen & Anita Skorgan,1982,0.052770447,3,12,0.052770447
+421,Portugal,Bem-bom,Doce,1982,0.04221636,1,13,0.04221636
+422,Yugoslavia,Halo Halo,Aska,1982,0.027704485,14,14,0.027704485
+423,Turkey,Hani,Neço,1982,0.026385223,5,15,0.026385223
+424,Netherlands,Jij En Ik,Bill van Dijk,1982,0.01055409,16,16,0.01055409
+425,Denmark,Video-video,Brixx,1982,0.006596306,13,17,0.006596306
+426,Finland,Nuku Pommiin,Kojo,1982,0.0,6,18,0.0
+427,Luxembourg,Si La Vie Est Cadeau,Corinne Hermès,1983,0.18733509,20,1,0.18733509
+428,Israel,Hi,Ofra Haza,1983,0.17941953,16,2,0.17941953
+429,Sweden,Främling,Carola Häggkvist,1983,0.16622691,4,3,0.16622691
+430,Yugoslavia,Dzuli,Danijel,1983,0.16490765,12,4,0.16490765
+431,Germany,Rücksicht,Hoffmann und Hoffmann,1983,0.124010555,14,5,0.124010555
+432,United Kingdom,I'm Never Giving Up,Sweet Dreams,1983,0.104221635,3,6,0.104221635
+433,Netherlands,Sing Me A Song,Bernadette,1983,0.08707124,11,7,0.08707124
+434,France,Vivre,Guy Bonnet,1983,0.07387863,1,8,0.07387863
+435,Norway,Do Re Mi,Jahn Teigen,1983,0.069920845,2,9,0.069920845
+436,Austria,Hurricane,Westend,1983,0.069920845,18,9,0.069920845
+437,Italy,Per Lucia,Riccardo Fogli,1983,0.05408971,5,11,0.05408971
+438,Finland,Fantasiaa,Ami Aspelund,1983,0.05408971,9,11,0.05408971
+439,Portugal,Esta Balada Que Te Dou,Armando Gama,1983,0.04353562,17,13,0.04353562
+440,Greece,Mou Les,Christie Stassinopoulou,1983,0.04221636,10,14,0.04221636
+441,Switzerland,Io Così Non Ci Sto,Mariella Farré,1983,0.036939315,8,15,0.036939315
+442,Cyprus,I Agapi Akoma Zi,Stavros and Constantina,1983,0.034300793,13,16,0.034300793
+443,Denmark,Kloden Drejer,Gry Johansen,1983,0.02110818,15,17,0.02110818
+444,Belgium,Rendez-vous,Pas de Deux,1983,0.017150396,19,18,0.017150396
+445,Turkey,Opera,Çetin Alp and the Short Wave,1983,0.0,6,19,0.0
+446,Spain,¿Quién Maneja Mi Barca?,Remedios Amaya,1983,0.0,7,19,0.0
+447,Sweden,Diggi-loo Diggy-ley,Herrey's,1984,0.19129288,1,1,0.19129288
+448,Ireland,Terminal '3',Linda Martin,1984,0.18073879,9,2,0.18073879
+449,Spain,"Lady, Lady",Bravo,1984,0.13984169,4,3,0.13984169
+450,Denmark,Det' Lige Det,Hot Eyes,1984,0.13324538,10,4,0.13324538
+451,Belgium,Avanti La Vie,Jacques Zegers,1984,0.092348285,8,5,0.092348285
+452,Italy,I Treni Di Tozeur,Alice & Battiato,1984,0.092348285,18,5,0.092348285
+453,United Kingdom,Love Games,Belle and the Devotions,1984,0.083113454,6,7,0.083113454
+454,France,Autant D'amoureux Que D'étoiles,Annick Thoumazeau,1984,0.080474935,3,8,0.080474935
+455,Finland,Hengaillaan,Kirka,1984,0.060686015,16,9,0.060686015
+456,Luxembourg,100% D'amour,Sophie Carle,1984,0.051451188,2,10,0.051451188
+457,Portugal,Silêncio E Tanta Gente,Maria Guinot,1984,0.050131924,19,11,0.050131924
+458,Turkey,Halay,"Bes Yil Önce, On Yil Sonra",1984,0.048812665,15,12,0.048812665
+459,Netherlands,Ik Hou Van Jou,Maribelle,1984,0.044854883,11,13,0.044854883
+460,Germany,Aufrecht Geh'n,Mary Roos,1984,0.044854883,14,13,0.044854883
+461,Cyprus,Anna Maria Lena,Andy Paul,1984,0.040897097,7,15,0.040897097
+462,Switzerland,Welche Farbe Hat Der Sonnenschein,Rainy Day,1984,0.039577838,17,16,0.039577838
+463,Norway,Lenge Leve Livet,Dollie de Luxe,1984,0.038258575,5,17,0.038258575
+464,Yugoslavia,Ciao Amore,Vlado and Isolda,1984,0.034300793,12,18,0.034300793
+465,Austria,Einfach Weg,Anita,1984,0.006596306,13,19,0.006596306
+466,Norway,La Det Swinge,Bobbysocks,1985,0.16226913,13,1,0.16226913
+467,Germany,Für Alle,Wind,1985,0.13852243,10,2,0.13852243
+468,Sweden,Bra Vibrationer,Kikki Danielsson,1985,0.13588391,16,3,0.13588391
+469,United Kingdom,Love Is...,Vikki,1985,0.13192612,14,4,0.13192612
+470,Israel,Olé Olé,Izhar Cohen,1985,0.122691296,11,5,0.122691296
+471,Ireland,Wait Until The Weekend Comes,Maria Christian,1985,0.12005277,1,6,0.12005277
+472,Italy,"Magic, Oh Magic",Al Bano and Romina Power,1985,0.102902375,12,7,0.102902375
+473,Austria,Kinder Dieser Welt,Gary Lux,1985,0.079155676,17,8,0.079155676
+474,Finland,Eläköön Elämä,Sonja Lumme,1985,0.07651715,2,9,0.07651715
+475,France,Femme Dans Ses Rêves Aussi,Roger Bens,1985,0.07387863,6,10,0.07387863
+476,Denmark,Sku' du spørg' fra no'en,Hot Eyes,1985,0.05408971,4,11,0.05408971
+477,Switzerland,Piano Piano,Mariella Farré & Pino Gasparini,1985,0.051451188,15,12,0.051451188
+478,Luxembourg,"Children, Kinder, Enfants","Margo, Franck, Diane, Ireen, Malcolm & Chris",1985,0.048812665,18,13,0.048812665
+479,Spain,La Fiesta Terminó,Paloma San Basilio,1985,0.047493402,5,14,0.047493402
+480,Turkey,Di Dai Di Dai Dai (Aşık oldum),MFÖ,1985,0.047493402,7,14,0.047493402
+481,Cyprus,To Katalava Arga,Lia Vishy,1985,0.019788919,3,16,0.019788919
+482,Greece,Miazoume,Takis Biniaris,1985,0.019788919,19,16,0.019788919
+483,Portugal,"Penso Em Ti, Eu Sei",Adelaïde,1985,0.0118733505,9,18,0.0118733505
+484,Belgium,Laat Me Nu Gaan,Linda Lepomme,1985,0.009234829,8,19,0.009234829
+485,Belgium,J'aime La Vie,Sandra Kim,1986,0.23218997,13,1,0.23218997
+486,Switzerland,Pas Pour Moi,Daniela Simons,1986,0.18469657,10,2,0.18469657
+487,Luxembourg,L'amour De Ma Vie,Sherisse Laurence,1986,0.15435356,1,3,0.15435356
+488,Ireland,You Can Count On Me,Luv Bug,1986,0.12664908,12,4,0.12664908
+489,Sweden,E' De' Det Här Du Kallar Kärlek,Lasse Holm & Monica Törnell,1986,0.102902375,17,5,0.102902375
+490,Denmark,Du Er Fuld Af Løgn,Lise Haavik & Trax,1986,0.101583116,18,6,0.101583116
+491,United Kingdom,Runner In The Night,Ryder,1986,0.094986804,5,7,0.094986804
+492,Germany,Über Die Brücke Geh'n,Ingrid Peters,1986,0.081794195,14,8,0.081794195
+493,Turkey,Halley,Klips & Onlar,1986,0.069920845,8,9,0.069920845
+494,Spain,Valentino,Cadillac,1986,0.06728232,9,10,0.06728232
+495,Yugoslavia,Željo Moja,Doris Dragović,1986,0.0646438,2,11,0.0646438
+496,Norway,Romeo,Ketil Stokkan,1986,0.058047492,4,12,0.058047492
+497,Netherlands,Alles Heeft Ritme,Frizzle Sizzle,1986,0.052770447,7,13,0.052770447
+498,Portugal,Não Sejas Mau Para Mim,Dora,1986,0.036939315,20,14,0.036939315
+499,Finland,Päivä Kahden Ihmisen,Kari Kuivalainen,1986,0.029023746,19,15,0.029023746
+500,Iceland,Gleðibankinn,Icy,1986,0.025065962,6,16,0.025065962
+501,France,Européennes,Cocktail Chic,1986,0.017150396,3,17,0.017150396
+502,Austria,Die Zeit Ist Einsam,Timna Brauer,1986,0.015831135,16,18,0.015831135
+503,Israel,Yavoh Yom,Moti Galadi and Sarai Tzuriel,1986,0.009234829,11,19,0.009234829
+504,Cyprus,Tora Zo,Elpida,1986,0.005277045,15,20,0.005277045
+505,Ireland,Hold Me Now,Johnny Logan,1987,0.22691293,20,1,0.22691293
+506,Germany,Laß Die Sonne In Dein Herz,Wind,1987,0.18601583,16,2,0.18601583
+507,Italy,Gente Di Mare,Umberto Tozzi and Raf,1987,0.13588391,7,3,0.13588391
+508,Yugoslavia,Ja Sam Za Ples,Novi Fosili,1987,0.12137203,21,4,0.12137203
+509,Netherlands,Rechtop In De Wind,Marcha,1987,0.10949868,12,5,0.10949868
+510,Denmark,En Lille Melodi,Anne-Cathrine Herdorf,1987,0.10949868,19,5,0.10949868
+511,Cyprus,Aspro Mavro,Alexia,1987,0.105540894,17,7,0.105540894
+512,Israel,Shir Habatlanim,Datner & Kushnir,1987,0.09630607,2,8,0.09630607
+513,Norway,Mitt Liv,Kate Gulbrandsen,1987,0.08575198,1,9,0.08575198
+514,Greece,Stop!,Bang,1987,0.08443272,11,10,0.08443272
+515,Belgium,Soldiers Of Love,Liliane Saint-Pierre,1987,0.07387863,5,11,0.07387863
+516,Sweden,Boogaloo,Lotta Engberg,1987,0.06596306,6,12,0.06596306
+517,United Kingdom,Only The Light,Rikki,1987,0.062005278,14,13,0.062005278
+518,France,Les Mots D'amour N'ont Pas De Dimanche,Christine Minier,1987,0.058047492,15,14,0.058047492
+519,Finland,Sata Salamaa,Vicky Rosti,1987,0.04221636,18,15,0.04221636
+520,Iceland,Hægt Og Hljótt,Halla Margarét,1987,0.036939315,4,16,0.036939315
+521,Switzerland,Moitié Moitié,Carole Rich,1987,0.034300793,22,17,0.034300793
+522,Portugal,Neste Barco à Vela,Nevada,1987,0.019788919,8,18,0.019788919
+523,Spain,No Estás Solo,Patricia Kraus,1987,0.013192612,9,19,0.013192612
+524,Austria,Nur Noch Gefühl,Gary Lux,1987,0.01055409,3,20,0.01055409
+525,Luxembourg,Amour Amour,Plastic Bertrand,1987,0.005277045,13,21,0.005277045
+526,Turkey,Şarkım sevgi üstüne,Seyyal Taner & Lokomotif,1987,0.0,10,22,0.0
+527,Switzerland,Ne Partez Pas Sans Moi,Céline Dion,1988,0.18073879,9,1,0.18073879
+528,United Kingdom,Go,Scott Fitzgerald,1988,0.17941953,4,2,0.17941953
+529,Denmark,Ka' Du Se Hva' Jeg Sa',Kirsten & Søren,1988,0.12137203,13,3,0.12137203
+530,Luxembourg,Croire,Lara Fabian,1988,0.11873351,17,4,0.11873351
+531,Norway,For Vår Jord,Karoline Krüger,1988,0.116094984,15,5,0.116094984
+532,Yugoslavia,Mangup,Srebrna Krila,1988,0.114775725,21,6,0.114775725
+533,Israel,Ben Adam,Yardena Arazi,1988,0.112137206,8,7,0.112137206
+534,Ireland,Take Him Home,Jump the Gun,1988,0.104221635,10,8,0.104221635
+535,Netherlands,Shangri-la,Gerard Joling,1988,0.092348285,7,9,0.092348285
+536,France,Chanteur De Charme,Gérard Lenorman,1988,0.08443272,19,10,0.08443272
+537,Spain,La Chica Que Yo Quiero (made In Spain),La Década,1988,0.07651715,6,11,0.07651715
+538,Sweden,Stad I Ljus,Tommy Körberg,1988,0.068601586,2,12,0.068601586
+539,Italy,Ti Scrivo,Luca Barbarossa,1988,0.068601586,18,12,0.068601586
+540,Germany,Lied Für Einen Freund,Maxi & Chris Garden,1988,0.06332454,11,14,0.06332454
+541,Turkey,Sufi,MFÖ,1988,0.048812665,5,15,0.048812665
+542,Iceland,Sókrates,Beathoven,1988,0.026385223,1,16,0.026385223
+543,Greece,Kloun,Aphroditi Fryda,1988,0.013192612,14,17,0.013192612
+544,Belgium,Laissez Briller Le Soleil,Reynaert,1988,0.006596306,16,18,0.006596306
+545,Portugal,Voltarei,Dora,1988,0.006596306,20,18,0.006596306
+546,Finland,Nauravat Silmät Muistetaan,Boulevard,1988,0.003957784,3,20,0.003957784
+547,Austria,Lisa Mona Lisa,Wilfried,1988,0.0,12,21,0.0
+548,Yugoslavia,Rock Me,Riva,1989,0.18073879,22,1,0.18073879
+549,United Kingdom,Why Do I Always Get It Wrong,Live Report,1989,0.17150396,7,2,0.17150396
+550,Denmark,Vi Maler Byen Rød,Birthe Kjær,1989,0.14643799,12,3,0.14643799
+551,Sweden,En Dag,Tommy Nilsson,1989,0.14511873,10,4,0.14511873
+552,Austria,Nur Ein Lied,Thomas Forstner,1989,0.12796834,13,5,0.12796834
+553,Spain,Nacida Para Amar,Nina,1989,0.116094984,16,6,0.116094984
+554,Finland,La Dolce Vita,Anneli Saaristo,1989,0.10026385,14,7,0.10026385
+555,France,J'ai Volé La Vie,Nathalie Pâque,1989,0.079155676,15,8,0.079155676
+556,Italy,Avrei Voluto,Anna Oxa and Fausto Leali,1989,0.07387863,1,9,0.07387863
+557,Greece,To Diko Sou Asteri,Marianna,1989,0.07387863,19,9,0.07387863
+558,Cyprus,Apopse As Vrethoume,Fanny Polymeri and Yiannis Savvidakis,1989,0.06728232,17,11,0.06728232
+559,Israel,Derech Ha'melech,Gili & Galit,1989,0.06596306,2,12,0.06596306
+560,Switzerland,Viver Senza Tei,Furbaz,1989,0.062005278,18,13,0.062005278
+561,Germany,Flieger,Nino de Angelo,1989,0.060686015,21,14,0.060686015
+562,Netherlands,Blijf Zoals Je Bent,Justine Pelmelay,1989,0.059366755,4,15,0.059366755
+563,Portugal,Conquistador,Da Vinci,1989,0.051451188,9,16,0.051451188
+564,Norway,Venners Nærhet,Britt Synnøve Johansen,1989,0.039577838,8,17,0.039577838
+565,Ireland,The Real Me,Kiev Connolly and the Missing Passengers,1989,0.027704485,3,18,0.027704485
+566,Belgium,Door De Wind,Ingeborg,1989,0.017150396,6,19,0.017150396
+567,Luxembourg,Monsieur,Park Café,1989,0.01055409,11,20,0.01055409
+568,Turkey,Bana Bana,Pan,1989,0.006596306,5,21,0.006596306
+569,Iceland,Það Sem Enginn Sér,Daníel Augúst Haraldsson,1989,0.0,20,22,0.0
+570,Italy,Insieme: 1992,Toto Cutugno,1990,0.19656992,19,1,0.19656992
+571,France,White And Black Blues,Joelle Ursull,1990,0.17414248,14,2,0.17414248
+572,Ireland,Somewhere In Europe,Liam Reilly,1990,0.17414248,17,2,0.17414248
+573,Iceland,Eitt Lag Enn,Stjórnin,1990,0.16358839,8,4,0.16358839
+574,Spain,Bandido,Azúcar Moreno,1990,0.12664908,1,5,0.12664908
+575,United Kingdom,Give A Little Love Back To The World,Emma,1990,0.114775725,7,6,0.114775725
+576,Yugoslavia,Hajde Da Ludujemo,Tajci,1990,0.10686016,15,7,0.10686016
+577,Denmark,Hallo Hallo,Lonnie Devantier,1990,0.08443272,11,8,0.08443272
+578,Germany,Frei Zu Leben,Chris Kempers & Daniel Kovac,1990,0.079155676,13,9,0.079155676
+579,Austria,Keine Mauern Mehr,Simone,1990,0.07651715,20,10,0.07651715
+580,Switzerland,Musik Klingt In Die Welt Hinaus,Egon Egemann,1990,0.06728232,12,11,0.06728232
+581,Belgium,Macédomienne,Philippe Lafontaine,1990,0.060686015,3,12,0.060686015
+582,Luxembourg,Quand Je Te Rêve,Céline Carzo,1990,0.050131924,6,13,0.050131924
+583,Cyprus,Milas Poli,Haris Anastasiou,1990,0.047493402,21,14,0.047493402
+584,Netherlands,Ik Wil Alles Met Je Delen,Maywood,1990,0.03298153,5,15,0.03298153
+585,Sweden,Som En Vind,Edin-Ådahl,1990,0.03166227,18,16,0.03166227
+586,Turkey,Gözlerinin Hapsindeyim,Kayahan,1990,0.027704485,4,17,0.027704485
+587,Israel,Shara Barechovot,Rita,1990,0.02110818,10,18,0.02110818
+588,Greece,Horis Skopo,Christos Callow & Wave,1990,0.014511873,2,19,0.014511873
+589,Portugal,Há Sempre Alguém,Nucha,1990,0.0118733505,16,20,0.0118733505
+590,Norway,Brandenburger Tor,Ketil Stokkan,1990,0.01055409,9,21,0.01055409
+591,Finland,Fri?,Beat,1990,0.01055409,22,21,0.01055409
+592,Sweden,Fångad Av En Stormvind,Carola,1991,0.19261214,8,1,0.19261214
+593,France,C'est Le Dernier Qui A Parlé Qui A Raison,Amina,1991,0.19261214,9,2,0.19261214
+594,Israel,Kan,Duo Datz,1991,0.18337731,15,3,0.18337731
+595,Spain,Bailar Pegados,Sergio Dalma,1991,0.15699208,19,4,0.15699208
+596,Switzerland,Canzone Per Te,Sandra Simó,1991,0.15567282,5,5,0.15567282
+597,Malta,Could It Be,Paul Giordimaina & Georgina,1991,0.13984169,3,6,0.13984169
+598,Italy,Comme E' Ddoce 'o Mare,Peppino di Capri,1991,0.11741425,22,7,0.11741425
+599,Portugal,Lusitana Paixão,Dulce,1991,0.081794195,12,8,0.081794195
+600,Cyprus,S.O.S.,Elena Patroclou,1991,0.079155676,21,9,0.079155676
+601,Ireland,Could It Be That I'm In Love,Kim Jackson,1991,0.062005278,11,10,0.062005278
+602,United Kingdom,A Message To Your Heart,Samantha Janus,1991,0.062005278,20,10,0.062005278
+603,Turkey,Iki Dakika,"Izel Çeliköz, Rayhan Soykarçi & Can Ugurluér",1991,0.058047492,10,12,0.058047492
+604,Greece,I Anixi,Sofia Vossou,1991,0.047493402,4,13,0.047493402
+605,Luxembourg,Un Baiser Volé,Sarah Bray,1991,0.038258575,7,14,0.038258575
+606,Iceland,Nina,Stefán & Eyfi,1991,0.034300793,2,15,0.034300793
+607,Belgium,Geef Het Op,Clouseau,1991,0.030343007,18,16,0.030343007
+608,Norway,Mrs. Thompson,Just 4 Fun,1991,0.018469658,14,17,0.018469658
+609,Germany,Dieser Traum Darf Niemals Sterben,Atlantis 2000,1991,0.013192612,17,18,0.013192612
+610,Denmark,Lige Der Hvor Hjertet Slår,Anders Frandsen,1991,0.01055409,13,19,0.01055409
+611,Finland,Hullu Yö,Kaija,1991,0.007915568,16,20,0.007915568
+612,Yugoslavia,Brazil,Baby Doll,1991,0.0013192613,1,21,0.0013192613
+613,Austria,Venedig Im Regen,Thomas Forstner,1991,0.0,6,22,0.0
+614,Ireland,Why Me,Linda Martin,1992,0.20448549,17,1,0.20448549
+615,United Kingdom,One Step Out Of Time,Michael Ball,1992,0.18337731,16,2,0.18337731
+616,Malta,Little Child,Mary Spiteri,1992,0.16226913,10,3,0.16226913
+617,Italy,Rapsodia,Mia Martini,1992,0.14643799,19,4,0.14643799
+618,Greece,Olou Tou Kosmou tin Elpida,Cleopatra,1992,0.124010555,5,5,0.124010555
+619,Israel,Ze Rak Sport,Dafna,1992,0.112137206,3,6,0.112137206
+620,Iceland,Nei Eða Já,Heart 2 Heart,1992,0.105540894,11,7,0.105540894
+621,France,Monté La Riviè,Kali,1992,0.09630607,6,8,0.09630607
+622,Netherlands,Wijs Me De Weg,Humphrey Campbell,1992,0.0883905,23,9,0.0883905
+623,Austria,Zusammen Geh'n,Tony Wegas,1992,0.083113454,15,10,0.083113454
+624,Cyprus,Teriazoume,Evridiki,1992,0.07519789,9,11,0.07519789
+625,Denmark,Alt Det Som Ingen Ser,Kenny & Lotte,1992,0.062005278,18,12,0.062005278
+626,Yugoslavia,Ljubim Te Pesmama,Extra Nena,1992,0.058047492,20,13,0.058047492
+627,Spain,Todo Esto Es La Música,Serafin,1992,0.048812665,1,14,0.048812665
+628,Switzerland,Mister Music Man,Daisy Auvray,1992,0.04221636,13,15,0.04221636
+629,Germany,Träume Sind Für Alle Da,Wind,1992,0.035620052,22,16,0.035620052
+630,Portugal,Amor D'água Fresca,Diná,1992,0.034300793,8,17,0.034300793
+631,Norway,Visjoner,Merethe Trøan,1992,0.030343007,21,18,0.030343007
+632,Turkey,Yaz Bitti,Aylin Vatankos,1992,0.022427442,4,19,0.022427442
+633,Belgium,Nous On Veut Des Violons,Morgane,1992,0.014511873,2,20,0.014511873
+634,Luxembourg,Sou Fräi,Marion Welter and Kontinent,1992,0.013192612,14,21,0.013192612
+635,Sweden,I Morgon är En Annan Dag,Christer Björkman,1992,0.0118733505,7,22,0.0118733505
+636,Finland,Yamma Yamma,Pave,1992,0.005277045,12,23,0.005277045
+637,Ireland,In Your Eyes,Niamh Kavanagh,1993,0.24670185,14,1,0.24670185
+638,United Kingdom,Better The Devil You Know,Sonia,1993,0.21635884,19,2,0.21635884
+639,Switzerland,"Moi, Tout Simplement",Annie Cotton,1993,0.19525066,4,3,0.19525066
+640,France,Mama Corsica,Patrick Fiori,1993,0.15963061,12,4,0.15963061
+641,Norway,Alle Mine Tankar,Silje Vige,1993,0.15831135,25,5,0.15831135
+642,Netherlands,Vrede,Ruth Jacott,1993,0.12137203,20,6,0.12137203
+643,Sweden,Eloïse,Arvingarna,1993,0.11741425,13,7,0.11741425
+644,Malta,This Time,William Mangion,1993,0.091029026,8,8,0.091029026
+645,Greece,"Ellada, Hora Tou Fotos",Kaiti Garbi,1993,0.08443272,6,9,0.08443272
+646,Portugal,A Cidade Até Ser Dia,Anabela,1993,0.079155676,11,10,0.079155676
+647,Spain,Hombres,Eva Santamaria,1993,0.07651715,22,11,0.07651715
+648,Italy,Sole D'europa,Enrico Ruggeri,1993,0.059366755,1,12,0.059366755
+649,Iceland,þá Veistu Svarið,Inga,1993,0.05540897,9,13,0.05540897
+650,Austria,Maria Magdalena,Tony Wegas,1993,0.04221636,10,14,0.04221636
+651,Croatia,Don't Ever Cry,Put,1993,0.040897097,21,15,0.040897097
+652,Bosnia & Herzegovina,Sva Bol Svijeta,Fazla,1993,0.035620052,18,16,0.035620052
+653,Finland,Tule Luo,Katri-Helena,1993,0.026385223,17,17,0.026385223
+654,Germany,Viel Zu Weit,Münchener Freiheit,1993,0.023746701,3,18,0.023746701
+655,Cyprus,Mi Stamatas,Kyriakos Zymboulakis & Demos Van Beke,1993,0.022427442,23,19,0.022427442
+656,Luxembourg,Donne-moi Une Chance,Modern Times,1993,0.014511873,15,20,0.014511873
+657,Turkey,Esmer Yarim,"Burak Aydos, Öztürk Baybora & Serter",1993,0.013192612,2,21,0.013192612
+658,Denmark,Under Stjernerne På Himlen,Tommy Seebach Band,1993,0.0118733505,5,22,0.0118733505
+659,Slovenia,Tih deževen dan,1X Band,1993,0.0118733505,16,22,0.0118733505
+660,Israel,Shiru,Lakahat Shiru,1993,0.005277045,24,24,0.005277045
+661,Belgium,Iemand Als Jij,Barbara,1993,0.003957784,7,25,0.003957784
+662,Ireland,Rock 'n' Roll Kids,Paul Harrington & Charlie McGettigan,1994,0.29815304,3,1,0.29815304
+663,Poland,To Nie Ja!,Edyta Górniak,1994,0.21899736,24,2,0.21899736
+664,Germany,Wir Geben 'ne Party,MeKaDo,1994,0.16886544,14,3,0.16886544
+665,Hungary,Kinek Mondjam El Vétkeimet,Friderika Bayer,1994,0.16094987,22,4,0.16094987
+666,Malta,More Than Love,Moira Stafrace & Christopher Scicluna,1994,0.12796834,12,5,0.12796834
+667,Norway,Duett,Elisabeth Andreasson & Jan Werner Danielsen,1994,0.10026385,17,6,0.10026385
+668,France,Je Suis Un Vrai Garçon,Nina Morato,1994,0.09762533,25,7,0.09762533
+669,Portugal,Chamar A Música,Sara Tavares,1994,0.09630607,8,8,0.09630607
+670,Russia,Vechni Stranik,Youddiph,1994,0.092348285,23,9,0.092348285
+671,United Kingdom,We Will Be Free (Lonely Symphony),Frances Ruffelle,1994,0.083113454,6,10,0.083113454
+672,Cyprus,Ime Anthropos Ke Ego,Evridiki,1994,0.06728232,4,11,0.06728232
+673,Iceland,Nætur,Sigga,1994,0.0646438,5,12,0.0646438
+674,Sweden,Stjärnorna,Marie Bergman & Roger Pontare,1994,0.06332454,1,13,0.06332454
+675,Greece,To Trehantiri,Costas Bigalis and the Sea Lovers,1994,0.058047492,19,14,0.058047492
+676,Bosnia & Herzegovina,Ostani Kraj Mene,Alma & Dejan,1994,0.051451188,18,15,0.051451188
+677,Croatia,Nek'ti Bude Ljubav Sva,Tony Cetinski,1994,0.035620052,7,16,0.035620052
+678,Austria,Für Den Frieden Der Welt,Petra Frey,1994,0.025065962,20,17,0.025065962
+679,Spain,Ella No Es Ella,Alejandro Abad,1994,0.022427442,21,18,0.022427442
+680,Switzerland,Sto Pregando,Duilio,1994,0.019788919,9,19,0.019788919
+681,Slovakia,Nekovecná Piesen,Martin Durinda and Tublatanka,1994,0.019788919,15,19,0.019788919
+682,Romania,Dincolo De Nori,Dan Bittman,1994,0.018469658,11,21,0.018469658
+683,Finland,Bye Bye Baby,CatCat,1994,0.014511873,2,22,0.014511873
+684,Netherlands,Waar Is De Zon,Willeke Alberti,1994,0.005277045,13,23,0.005277045
+685,Estonia,Nagu Merelaine,Silvi Vrait,1994,0.0026385225,10,24,0.0026385225
+686,Lithuania,Lopšinė mylimai,Ovidijus Vyšniauskas,1994,0.0,16,25,0.0
+687,Norway,Nocturne,Secret Garden,1995,0.19525066,5,1,0.19525066
+688,Spain,Vuelve Conmigo,Anabel Conde,1995,0.15699208,9,2,0.15699208
+689,Sweden,Se På Mej,Jan Johansen,1995,0.13192612,18,3,0.13192612
+690,France,Il Me Donne Rendez-vous,Nathalie Santamaria,1995,0.124010555,12,4,0.124010555
+691,Denmark,Fra Mols Til Skagen,Aud Wilken,1995,0.12137203,19,5,0.12137203
+692,Croatia,Nostalgija,Magazin & Lidija,1995,0.12005277,11,6,0.12005277
+693,Slovenia,Prisluhni Mi,Darja Svajger,1995,0.11081794,20,7,0.11081794
+694,Israel,Amen,Liora,1995,0.10686016,21,8,0.10686016
+695,Cyprus,Sti Fotia,Alexandros Panayi,1995,0.104221635,17,9,0.104221635
+696,United Kingdom,Love City Groove,Love City Groove,1995,0.10026385,15,10,0.10026385
+697,Malta,Keep Me In Mind,Mike Spiteri,1995,0.10026385,22,10,0.10026385
+698,Greece,Pia Prosefhi,Elina Constantopoulou,1995,0.089709766,23,12,0.089709766
+699,Austria,Die Welt Dreht Sich Verkehrt,Stella Jones,1995,0.0883905,8,13,0.0883905
+700,Ireland,Dreamin',Eddie Friel,1995,0.058047492,2,14,0.058047492
+701,Iceland,Núna,Bó Halldórsson,1995,0.040897097,7,15,0.040897097
+702,Turkey,Sev!,Arzu Ece,1995,0.027704485,10,16,0.027704485
+703,Russia,Kolybelnaya Dlya Vulkana,Philipp Kirkorov,1995,0.022427442,6,17,0.022427442
+704,Poland,Sama,Justyna,1995,0.019788919,1,18,0.019788919
+705,Bosnia & Herzegovina,Dvadeset I Prvi Vijek,Davor Popovic,1995,0.018469658,4,19,0.018469658
+706,Belgium,La Voix Est Libre,Frédéric Etherlinck,1995,0.01055409,14,20,0.01055409
+707,Portugal,Baunilha E Chocolate,Tó Cruz,1995,0.006596306,16,21,0.006596306
+708,Hungary,Ùj Nèv Egy Règi Hàz Fàlan,Czaba Szigeti,1995,0.003957784,13,22,0.003957784
+709,Germany,Verliebt In Dich,Stone and Stone,1995,0.0013192613,3,23,0.0013192613
+710,Ireland,The Voice,Eimear Quinn,1996,0.21372032,17,1,0.21372032
+711,Norway,I Evighet,Elisabeth Andreasson,1996,0.15039578,12,2,0.15039578
+712,Sweden,Den Vilda,One More Time,1996,0.13192612,23,3,0.13192612
+713,Croatia,Sveta Ljubav,Maja Blagdan,1996,0.1292876,7,4,0.1292876
+714,Estonia,Kaelakee Hääl,Ivo Linna and Maarja-Liis Ilus,1996,0.124010555,11,5,0.124010555
+715,Portugal,O Meu Coração Não Tem Cor,Lúcia Moniz,1996,0.12137203,4,6,0.12137203
+716,Netherlands,De Eerste Keer,Maxine & Franklin Brown,1996,0.102902375,15,7,0.102902375
+717,United Kingdom,Ooh...Aah...Just A Little Bit,Gina G,1996,0.101583116,2,8,0.101583116
+718,Cyprus,Mono Gia Mas,Constantinos,1996,0.094986804,5,9,0.094986804
+719,Malta,In A Woman's Heart,Miriam Christine,1996,0.089709766,6,10,0.089709766
+720,Austria,Weil's Dr Guat Got,George Nußbaumer,1996,0.089709766,8,10,0.089709766
+721,Turkey,Besinçi Mevsim,Şebnem Paker,1996,0.07519789,1,12,0.07519789
+722,Iceland,Sjúbídú,Anna Mjöll,1996,0.06728232,19,13,0.06728232
+723,Greece,Emis Forame To Himona Anixiatika,Marianna Efstratiou,1996,0.047493402,10,14,0.047493402
+724,Poland,Chce Znac Swój Grzech,Kasia Kowalska,1996,0.040897097,20,15,0.040897097
+725,Switzerland,Mon Coeur L'aime,Cathy Leander,1996,0.029023746,9,16,0.029023746
+726,Belgium,Liefde Is Een Kaartspel,Lisa del Bo,1996,0.029023746,16,16,0.029023746
+727,Slovakia,Kým Nás Máš,Marcel Palonder,1996,0.025065962,22,18,0.025065962
+728,France,Diwanit Bugale,Dan Ar Braz et l'Héritage des Celtes,1996,0.023746701,13,19,0.023746701
+729,Spain,"¡Ay, Qué Deseo!",Antonio Carbonell,1996,0.022427442,3,20,0.022427442
+730,Slovenia,Dan najlepših sanj,Regina,1996,0.02110818,14,21,0.02110818
+731,Bosnia & Herzegovina,Za Našu Ljubav,Amila Glamocak,1996,0.017150396,21,22,0.017150396
+732,Finland,Niin Kaunis On Taivas,Jasmine,1996,0.0118733505,18,23,0.0118733505
+733,United Kingdom,Love Shine A Light,Katrina and The Waves,1997,0.2994723,24,1,0.2994723
+734,Ireland,Mysterious Woman,Marc Roberts,1997,0.20712401,5,2,0.20712401
+735,Turkey,Dinle,Sebnem Paker & Etnic,1997,0.15963061,2,3,0.15963061
+736,Italy,Fiumi Di Parole,Jalisse,1997,0.15039578,9,4,0.15039578
+737,Cyprus,Mana Mou,Chara and Andreas Konstantinou,1997,0.1292876,1,5,0.1292876
+738,Spain,Sin Rencor,Marcos Llunas,1997,0.12664908,10,6,0.12664908
+739,France,Sentiments Songes,Fanny,1997,0.12532982,22,7,0.12532982
+740,Estonia,Keelatud Maa,Maarja-Liis Ilus,1997,0.10817942,13,8,0.10817942
+741,Malta,Let Me Fly,Debbie Scerri,1997,0.08707124,18,9,0.08707124
+742,Slovenia,Zbudi Se,Tanja Ribič,1997,0.079155676,6,10,0.079155676
+743,Poland,Ale Jestem,Anna Maria Jopek,1997,0.071240105,12,11,0.071240105
+744,Greece,Horepse,Marianna Zorba,1997,0.051451188,17,12,0.051451188
+745,Hungary,"Miert Kell, Hogy Elmenj?",VIP,1997,0.051451188,19,12,0.051451188
+746,Sweden,Bara Hon älskar Mig,Blond,1997,0.047493402,16,14,0.047493402
+747,Russia,Primadonna,Alla Pugachova,1997,0.04353562,20,15,0.04353562
+748,Denmark,Stemmen I Mit Liv,Kølig Kaj,1997,0.03298153,21,16,0.03298153
+749,Croatia,Probudi Me,ENI,1997,0.03166227,23,17,0.03166227
+750,Germany,Zeit,Bianca Shomburg,1997,0.029023746,11,18,0.029023746
+751,Bosnia & Herzegovina,Goodbye,Alma Cardzic,1997,0.029023746,14,18,0.029023746
+752,Iceland,Minn Hinsti Dans,Paul Oscar,1997,0.023746701,25,20,0.023746701
+753,Austria,One Step,Bettina Soriat,1997,0.015831135,4,21,0.015831135
+754,Switzerland,Dentro Di Me,Barbara Berta,1997,0.006596306,7,22,0.006596306
+755,Netherlands,Niemand Heeft Nog Tijd,Mrs. Einstein,1997,0.006596306,8,22,0.006596306
+756,Norway,San Francisco,Tor Endresen,1997,0.0,3,24,0.0
+757,Portugal,Antes Do Adeus,Célia Lawson,1997,0.0,15,24,0.0
+758,Israel,Diva,Dana International,1998,0.22691293,8,1,0.22691293
+759,United Kingdom,Where Are You?,Imaani,1998,0.21899736,16,2,0.21899736
+760,Malta,The One That I Love,Chiara,1998,0.2176781,10,3,0.2176781
+761,Netherlands,Hemel En Aarde,Edsilia Rombley,1998,0.19788918,18,4,0.19788918
+762,Croatia,Neka Mi Ne Svane,Danijela,1998,0.17282322,1,5,0.17282322
+763,Belgium,Dis Oui,Mélanie Cohl,1998,0.16094987,20,6,0.16094987
+764,Germany,Guildo Hat Euch Lieb,Guildo Horn,1998,0.113456465,9,7,0.113456465
+765,Norway,Alltid Sommer,Lars A. Fredriksen,1998,0.104221635,22,8,0.104221635
+766,Ireland,Is Always Over Now?,Dawn,1998,0.08443272,13,9,0.08443272
+767,Sweden,Kärleken är,Jill Johnson,1998,0.069920845,19,10,0.069920845
+768,Cyprus,Genesis,Michael Hajiyanni,1998,0.048812665,17,11,0.048812665
+769,Portugal,Se Eu Te Pudesse Abraçar,Alma Lusa,1998,0.047493402,14,12,0.047493402
+770,Estonia,Mere Lapsed,Koit Toome,1998,0.047493402,23,12,0.047493402
+771,Turkey,Unutamazsin,Tüzmen,1998,0.03298153,24,14,0.03298153
+772,Finland,Aava,Edea,1998,0.029023746,21,15,0.029023746
+773,Spain,¿Qué Voy A Hacer Sin Ti?,Mikel Herzog,1998,0.027704485,4,16,0.027704485
+774,Poland,To Takie Proste,Sixteen,1998,0.025065962,7,17,0.025065962
+775,Slovenia,Naj Bogovi Slišijo,Vili Resnik,1998,0.022427442,12,18,0.022427442
+776,North Macedonia,"Ne Zori, Zoro",Vlado Janevski,1998,0.02110818,25,19,0.02110818
+777,Greece,Mia Krifi Evaisthissia,Dionysia & Thalassa,1998,0.015831135,2,20,0.015831135
+778,Slovakia,Modlitba,Katarína Hasprová,1998,0.01055409,6,21,0.01055409
+779,Romania,Eu Cred,Malina Olinescu,1998,0.007915568,15,22,0.007915568
+780,Hungary,A Holnap Már Ném Lesz Szomorú,Charlie,1998,0.005277045,11,23,0.005277045
+781,France,Où Aller,Marie-Line,1998,0.003957784,3,24,0.003957784
+782,Switzerland,Lass Ihn,Gunvor,1998,0.0,5,25,0.0
+783,Sweden,Take Me To Your Heaven,Charlotte Nilsson,1999,0.21503958,15,1,0.21503958
+784,Iceland,All Out Of Luck,Selma Björnsdóttir,1999,0.19261214,13,2,0.19261214
+785,Germany,Reise Nach Jerusalem - Kudüs'e Seyahat,Sürpriz,1999,0.18469657,21,3,0.18469657
+786,Croatia,Marija Magdalena,Doris Dragović,1999,0.15567282,4,4,0.15567282
+787,Israel,Yom Huledeth,Eden,1999,0.122691296,19,5,0.122691296
+788,Estonia,Diamond Of Night,Evelin Samuel & Camille,1999,0.11873351,23,6,0.11873351
+789,Bosnia & Herzegovina,Putnici,Dino & Beatrice,1999,0.113456465,22,7,0.113456465
+790,Denmark,This Time (i Mean It),Trine Jepsen & Michael Teschl,1999,0.093667544,9,8,0.093667544
+791,Netherlands,One Good Reason,Marlayne,1999,0.093667544,11,8,0.093667544
+792,Austria,Reflection,Bobbie Singer,1999,0.08575198,18,10,0.08575198
+793,Slovenia,For A Thousand Years,Darja Svajger,1999,0.06596306,6,11,0.06596306
+794,Belgium,Like The Wind,Venessa Chinitor,1999,0.050131924,2,12,0.050131924
+795,United Kingdom,Say It Again,Precious,1999,0.050131924,5,12,0.050131924
+796,Norway,Living My Life Without You,Stig André Van Eijk,1999,0.046174143,8,14,0.046174143
+797,Malta,Believe 'n Peace,Times 3,1999,0.04221636,20,15,0.04221636
+798,Turkey,Dön Artik,Tuba Önal & Mystik,1999,0.027704485,7,16,0.027704485
+799,Ireland,When You Need Me,The Mullan's,1999,0.023746701,17,17,0.023746701
+800,Poland,Przytul Mnie Mocno,Mietek Szczesniak,1999,0.022427442,12,18,0.022427442
+801,France,Je Veux Donner Ma Voix,Nayah,1999,0.018469658,10,19,0.018469658
+802,Lithuania,Strazdas,Aiste Smilgeviciute,1999,0.017150396,1,20,0.017150396
+803,Portugal,Como Tudo Começou,Rui Bandeira,1999,0.015831135,16,21,0.015831135
+804,Cyprus,Tha'nai Erotas,Marlain Angelidou,1999,0.0026385225,14,22,0.0026385225
+805,Spain,No Quiero Escuchar,Lydia,1999,0.0013192613,3,23,0.0013192613
+806,Denmark,Fly On The Wings Of Love,Olsen Brothers,2000,0.25725594,14,1,0.25725594
+807,Russia,Solo,Alsou,2000,0.20448549,9,2,0.20448549
+808,Latvia,My Star,BrainStorm,2000,0.17941953,21,3,0.17941953
+809,Estonia,Once In A Lifetime,Ines,2000,0.1292876,4,4,0.1292876
+810,Germany,Wadde Hadde Dudde Da,Stefan Raab,2000,0.12664908,15,5,0.12664908
+811,Ireland,Millennium Of Love,Eamonn Toal,2000,0.12137203,23,6,0.12137203
+812,Sweden,When Spirits Are Calling My Name,Roger Pontare,2000,0.116094984,18,7,0.116094984
+813,Malta,Desire,Claudette Pace,2000,0.09630607,7,8,0.09630607
+814,Croatia,Kada Zaspu Andeli,Goran Karan,2000,0.092348285,17,9,0.092348285
+815,Turkey,Yorgunum Anla,Pinar Ayhan & S.O.S. band,2000,0.07783641,22,10,0.07783641
+816,Norway,My Heart Goes Boom,Charmed,2000,0.07519789,8,11,0.07519789
+817,Iceland,Tell Me!,August & Telma,2000,0.059366755,12,12,0.059366755
+818,Netherlands,No Goodbyes,Linda Wagenmakers,2000,0.052770447,2,13,0.052770447
+819,Austria,All To You,The rounder girls,2000,0.044854883,24,14,0.044854883
+820,North Macedonia,100% Te Ljubam,XXL,2000,0.038258575,19,15,0.038258575
+821,United Kingdom,Don't Play That Song Again,Nicki French,2000,0.036939315,3,16,0.036939315
+822,Romania,The Moon,Taxi,2000,0.03298153,6,17,0.03298153
+823,Spain,Colgado De Un Sueño,Serafín Zubiri,2000,0.023746701,13,18,0.023746701
+824,Finland,A Little Bit,Nina Åström,2000,0.023746701,20,18,0.023746701
+825,Switzerland,La Vita Cos'è?,Jane Bogaert,2000,0.018469658,16,20,0.018469658
+826,Cyprus,Nomiza,Voice,2000,0.01055409,11,21,0.01055409
+827,Israel,Sa'me'akh,Ping Pong,2000,0.009234829,1,22,0.009234829
+828,France,On Aura Le Ciel,Sofia Mestari,2000,0.006596306,5,23,0.006596306
+829,Belgium,Envie De Vivre,Nathalie Sorce,2000,0.0026385225,10,24,0.0026385225
+830,Estonia,Everybody,"Tanel Padar, Dave Benton & 2XL",2001,0.26121372,20,1,0.26121372
+831,Denmark,Never Ever Let You Go,Rollo & King,2001,0.23350923,23,2,0.23350923
+832,Greece,Die For You,Antique,2001,0.1939314,22,3,0.1939314
+833,France,Je N'ai Que Mon âme,Natasha Saint-Pier,2001,0.18733509,14,4,0.18733509
+834,Sweden,Listen To Your Heartbeat,Friends,2001,0.13192612,7,5,0.13192612
+835,Spain,Dile Que La Quiero,David Civera,2001,0.10026385,13,6,0.10026385
+836,Slovenia,Energy,Nuša Derenda,2001,0.092348285,17,7,0.092348285
+837,Germany,Wer Liebe Lebt,Michelle,2001,0.08707124,19,8,0.08707124
+838,Malta,Another Summer Night,Fabrizio Faniello,2001,0.06332454,21,9,0.06332454
+839,Croatia,Strings Of My Heart,Vanna,2001,0.05540897,10,10,0.05540897
+840,Turkey,Sevgiliye Son,Sedat Yüce,2001,0.05408971,15,11,0.05408971
+841,Russia,Lady Alpine Blue,Mumiy troll,2001,0.048812665,6,12,0.048812665
+842,Lithuania,You Got Style,Skamp,2001,0.046174143,8,13,0.046174143
+843,Bosnia & Herzegovina,Hano,Nino,2001,0.038258575,3,14,0.038258575
+844,United Kingdom,No Dream Impossible,Lindsay D.,2001,0.036939315,16,15,0.036939315
+845,Israel,Ein Davar,Tal Sondak,2001,0.03298153,5,16,0.03298153
+846,Portugal,Só Sei Ser Feliz Assim,MTM,2001,0.023746701,11,17,0.023746701
+847,Netherlands,Out On My Own,Michelle,2001,0.02110818,1,18,0.02110818
+848,Latvia,Too Much,Arnis Mednis,2001,0.02110818,9,18,0.02110818
+849,Poland,2 Long,Piasek,2001,0.014511873,18,20,0.014511873
+850,Ireland,Without Your Love,Gary O'Shaughnessy,2001,0.007915568,12,21,0.007915568
+851,Iceland,Angel,TwoTricky,2001,0.003957784,2,22,0.003957784
+852,Norway,On My Own,Haldor Lægreid,2001,0.003957784,4,22,0.003957784
+853,Latvia,I Wanna,Marie N,2002,0.23218997,23,1,0.23218997
+854,Malta,7th Wonder,Ira Losco,2002,0.21635884,20,2,0.21635884
+855,United Kingdom,Come Back,Jessica Garlick,2002,0.14643799,2,3,0.14643799
+856,Estonia,Runaway,Sahléne,2002,0.14643799,8,3,0.14643799
+857,France,Il Faut Du Temps,Sandrine François,2002,0.13720317,17,5,0.13720317
+858,Cyprus,Gimme,One,2002,0.112137206,1,6,0.112137206
+859,Spain,Europe's Living A Celebration,Rosa,2002,0.10686016,5,7,0.10686016
+860,Sweden,Never Let It Go,Afro-dite,2002,0.094986804,12,8,0.094986804
+861,Romania,Tell Me Why,Monica Anghel & Marcel Pavel,2002,0.093667544,21,9,0.093667544
+862,Russia,Northern Girl,Prime minister,2002,0.072559364,7,10,0.072559364
+863,Croatia,Everything I Want,Vesna Pisarovic,2002,0.058047492,6,11,0.058047492
+864,Israel,Light A Candle,Sarit Hadad,2002,0.048812665,10,12,0.048812665
+865,Bosnia & Herzegovina,Na Jastuku Za Dvoje,Maja,2002,0.04353562,15,13,0.04353562
+866,Belgium,Sister,Sergio & the Ladies,2002,0.04353562,16,13,0.04353562
+867,Slovenia,Samo Ljubezen,Sestre,2002,0.04353562,22,13,0.04353562
+868,Turkey,Leylaklar Soldu Kalbinde,Buket Bengisu & Saphire,2002,0.038258575,19,16,0.038258575
+869,Greece,S.A.G.A.P.O.,Michalis Rakintzis,2002,0.035620052,4,17,0.035620052
+870,Austria,Say A Word,Manuel Ortega,2002,0.034300793,3,18,0.034300793
+871,North Macedonia,Od Nas Zavisi,Karolina,2002,0.03298153,9,19,0.03298153
+872,Finland,Addicted To You,Laura,2002,0.03166227,13,20,0.03166227
+873,Germany,I Can't Live Without Music,Corinna May,2002,0.022427442,18,21,0.022427442
+874,Switzerland,Dans Le Jardin De Mon Âme,Francine Jordi,2002,0.019788919,11,22,0.019788919
+875,Lithuania,Happy You,Aivaras,2002,0.015831135,24,23,0.015831135
+876,Denmark,Tell Me Who You Are,Malene,2002,0.009234829,14,24,0.009234829
+877,Turkey,Everyway That I Can,Sertab Erener,2003,0.22031662,4,1,0.22031662
+878,Belgium,Sanomi,Urban Trad,2003,0.2176781,22,2,0.2176781
+879,Russia,"Ne Ver', Ne Boisia",t.A.T.u.,2003,0.21635884,11,3,0.21635884
+880,Norway,I'm Not Afraid To Move On,Jostein Hasselgård,2003,0.16226913,18,4,0.16226913
+881,Sweden,Give Me Your Love,Fame,2003,0.14116095,25,5,0.14116095
+882,Austria,Weil Der Mensch Zählt,Alf Poier,2003,0.13324538,2,6,0.13324538
+883,Poland,Keine Grenzen - Zadnych Granic,Ich Troje,2003,0.11873351,20,7,0.11873351
+884,Iceland,Open Your Heart,Birgitta,2003,0.10686016,1,8,0.10686016
+885,Spain,Dime,Beth,2003,0.10686016,12,8,0.10686016
+886,Romania,Don't Break My Heart,Nicola,2003,0.09630607,24,10,0.09630607
+887,Ireland,We've Got The World,Mickey Harte,2003,0.069920845,3,11,0.069920845
+888,Germany,Let's Get Happy,Lou,2003,0.069920845,10,11,0.069920845
+889,Netherlands,One More Night,Esther Hart,2003,0.059366755,14,13,0.059366755
+890,Ukraine,Hasta La Vista,Olexandr,2003,0.039577838,16,14,0.039577838
+891,Croatia,Više isam Tvoja,Claudia Beni,2003,0.038258575,8,15,0.038258575
+892,Bosnia & Herzegovina,Ne Brini,Mija Martina,2003,0.035620052,6,16,0.035620052
+893,Greece,Never Let You Go,Mando,2003,0.03298153,17,17,0.03298153
+894,France,Monts Et Merveilles,Louisa Baileche,2003,0.025065962,19,18,0.025065962
+895,Israel,Words For Love,Lior Narkis,2003,0.022427442,13,19,0.022427442
+896,Cyprus,Feeling Alive,Stelios Constantas,2003,0.019788919,9,20,0.019788919
+897,Estonia,Eighties Coming Back,Ruffus,2003,0.018469658,23,21,0.018469658
+898,Portugal,Deixa-me Sonhar,Rita Guerra,2003,0.017150396,7,22,0.017150396
+899,Slovenia,Nanana,Karmen,2003,0.009234829,26,23,0.009234829
+900,Latvia,Hello From Mars,F.L.Y.,2003,0.006596306,21,24,0.006596306
+901,Malta,To Dream Again,Lynn Chirchop,2003,0.005277045,5,25,0.005277045
+902,United Kingdom,Cry Baby,Jemini,2003,0.0,15,26,0.0
+903,Ukraine,Wild Dances,Ruslana,2004,0.36939314,10,1,0.36939314
+904,Serbia & Montenegro,Lane Moje,Željko Joksimović,2004,0.3469657,5,2,0.3469657
+905,Greece,Shake It,Sakis Rouvas,2004,0.33245382,16,3,0.33245382
+906,Turkey,For Real,Athena,2004,0.25725594,22,4,0.25725594
+907,Cyprus,Stronger Every Minute,Lisa Andreas,2004,0.22427441,21,5,0.22427441
+908,Sweden,It Hurts,Lena Philipsson,2004,0.22427441,24,5,0.22427441
+909,Albania,The Image Of You,Anjeza Shahini,2004,0.13984169,9,7,0.13984169
+910,Germany,Can't Wait Until Tonight,Max,2004,0.122691296,8,8,0.122691296
+911,Bosnia & Herzegovina,In The Disco,Deen,2004,0.12005277,12,9,0.12005277
+912,Spain,Para Llenarme De Ti,Ramón,2004,0.114775725,1,10,0.114775725
+913,Russia,Believe Me,Julia Savicheva,2004,0.0883905,14,11,0.0883905
+914,Malta,On Again... Off Again,Julie & Ludwig,2004,0.06596306,6,12,0.06596306
+915,Croatia,You Are The Only One,Ivan Mikulic,2004,0.06596306,11,12,0.06596306
+916,North Macedonia,Life,Tose Proeski,2004,0.062005278,15,14,0.062005278
+917,France,A Chaque Pas,Jonatan Cerrada,2004,0.052770447,4,15,0.052770447
+918,United Kingdom,Hold On To Our Love,James Fox,2004,0.038258575,20,16,0.038258575
+919,Poland,Love Song,Blue Cafe,2004,0.035620052,19,17,0.035620052
+920,Romania,I Admit,Sanda Ladosi,2004,0.023746701,23,18,0.023746701
+921,Iceland,Heaven,Jónsi,2004,0.02110818,17,19,0.02110818
+922,Netherlands,Without You,Re-union,2004,0.014511873,7,20,0.014511873
+923,Austria,Du Bist,Tie Break,2004,0.0118733505,2,21,0.0118733505
+924,Belgium,1 Life,Xandee,2004,0.009234829,13,22,0.009234829
+925,Ireland,If My World Stopped Turning,Chris Doran,2004,0.009234829,18,22,0.009234829
+926,Norway,High,Knut Anders Sørum,2004,0.003957784,3,24,0.003957784
+927,Greece,My Number One,Helena Paparizou,2005,0.30343008,19,1,0.30343008
+928,Malta,Angel,Chiara,2005,0.25329816,3,2,0.25329816
+929,Romania,Let Me Try,Luminita Anghel & Sistem,2005,0.20844327,4,3,0.20844327
+930,Israel,Hasheket Shenish'ar,Shiri Maymon,2005,0.20316623,11,4,0.20316623
+931,Latvia,The War Is Not Over,Walter & Kazha,2005,0.20184697,23,5,0.20184697
+932,Moldova,Boonika Bate Doba,Zdob şi Zdub,2005,0.19525066,7,6,0.19525066
+933,Serbia & Montenegro,Zauvijek Moja,No Name,2005,0.18073879,12,7,0.18073879
+934,Switzerland,Cool Vibes,Vanilla Ninja,2005,0.16886544,22,8,0.16886544
+935,Norway,In My Dreams,Wig Wam,2005,0.16490765,5,9,0.16490765
+936,Denmark,Talking To You,Jakob Sveistrup,2005,0.16490765,13,9,0.16490765
+937,Croatia,Vukovi Umiru Sami,Boris Novkovic feat. Lado members,2005,0.15171504,18,11,0.15171504
+938,Hungary,Forogj Világ,NOX,2005,0.12796834,1,12,0.12796834
+939,Turkey,Rimi Rimi Ley,Gülseren,2005,0.12137203,6,13,0.12137203
+940,Bosnia & Herzegovina,Call Me,Feminnem,2005,0.104221635,21,14,0.104221635
+941,Russia,Nobody Hurt No One,Natalia Podolskaya,2005,0.07519789,20,15,0.07519789
+942,Albania,Tomorrow I Go,Ledina Celo,2005,0.069920845,8,16,0.069920845
+943,North Macedonia,Make My Day,Martin Vucic,2005,0.068601586,15,17,0.068601586
+944,Cyprus,Ela Ela,Constantinos Christoforou,2005,0.060686015,9,18,0.060686015
+945,Sweden,Las Vegas,Martin Stenmarck,2005,0.039577838,14,19,0.039577838
+946,Ukraine,Razom Nas Bahato,Greenjolly,2005,0.039577838,16,19,0.039577838
+947,Spain,Brujería,Son de sol,2005,0.036939315,10,21,0.036939315
+948,United Kingdom,Touch My Fire,Javine,2005,0.023746701,2,22,0.023746701
+949,France,Chacun Pense à Soi,Ortal,2005,0.014511873,24,23,0.014511873
+950,Germany,Run & Hide,Gracia,2005,0.005277045,17,24,0.005277045
+951,Finland,Hard Rock Hallelujah,Lordi,2006,0.38522428,17,1,0.38522428
+952,Russia,Never Let You Go,Dima Bilan,2006,0.32717678,10,2,0.32717678
+953,Bosnia & Herzegovina,Lejla,Hari Mata Hari,2006,0.30211082,13,3,0.30211082
+954,Romania,Tornero,Mihai Traistariu,2006,0.22691293,12,4,0.22691293
+955,Sweden,Invincible,Carola,2006,0.22427441,22,5,0.22427441
+956,Lithuania,We Are The Winners,LT United,2006,0.21372032,14,6,0.21372032
+957,Ukraine,Show Me Your Love,Tina Karol,2006,0.19129288,18,7,0.19129288
+958,Armenia,Without Your Love,André,2006,0.1701847,24,8,0.1701847
+959,Greece,Everything,Anna Vissi,2006,0.16886544,16,9,0.16886544
+960,Ireland,Every Song Is A Cry For Love,Brian Kennedy,2006,0.122691296,21,10,0.122691296
+961,Turkey,Superstar,Sibel Tüzün,2006,0.12005277,23,11,0.12005277
+962,North Macedonia,Ninanajna,Elena Risteska,2006,0.07387863,11,12,0.07387863
+963,Croatia,Moja štikla,Severina,2006,0.07387863,20,12,0.07387863
+964,Norway,Alvedansen,Christine Guldbrandsen,2006,0.047493402,5,14,0.047493402
+965,Germany,"No, No, Never",Texas Lightning,2006,0.047493402,8,14,0.047493402
+966,Switzerland,If We All Give A Little,Six4One,2006,0.039577838,1,16,0.039577838
+967,Latvia,I Hear Your Heart,Cosmos,2006,0.039577838,4,16,0.039577838
+968,Denmark,Twist Of Love,Sidsel Ben Semmane,2006,0.034300793,9,18,0.034300793
+969,United Kingdom,Teenage Life,Daz Sampson,2006,0.03298153,15,19,0.03298153
+970,Moldova,Loca,Arsenium & Natalia Gordienko,2006,0.029023746,2,20,0.029023746
+971,Spain,Bloody Mary,Las Ketchup,2006,0.023746701,6,21,0.023746701
+972,France,Il était Temps,Virginie Pouchin,2006,0.006596306,19,22,0.006596306
+973,Israel,Ze Hazman,Eddie Butler,2006,0.005277045,3,23,0.005277045
+974,Malta,I Do,Fabrizio Faniello,2006,0.0013192613,7,24,0.0013192613
+975,Serbia,Molitva,Marija Šerifović,2007,0.353562,17,1,0.353562
+976,Ukraine,Dancing Lasha Tumbai,Verka Serduchka,2007,0.31002638,18,2,0.31002638
+977,Russia,Song # 1,Serebro,2007,0.27308708,15,3,0.27308708
+978,Turkey,Shake It Up Shekerim,Kenan Dogulu,2007,0.21503958,22,4,0.21503958
+979,Bulgaria,Water,Elitsa Todorova & Stoyan Yankulov,2007,0.20712401,21,5,0.20712401
+980,Belarus,Work Your Magic,Dmitry Koldun,2007,0.19129288,3,6,0.19129288
+981,Greece,Yassou Maria,Sarbel,2007,0.18337731,10,7,0.18337731
+982,Armenia,Anytime You Need,Hayko,2007,0.18205805,23,8,0.18205805
+983,Hungary,Unsubstantial Blues,Magdi Rúzsa,2007,0.16886544,8,9,0.16886544
+984,Moldova,Fight,Natalia Barbu,2007,0.14379947,24,10,0.14379947
+985,Bosnia & Herzegovina,Rijeka Bez Imena,Marija Sestic,2007,0.13984169,1,11,0.13984169
+986,Georgia,Visionary Dream,Sopho,2007,0.12796834,11,12,0.12796834
+987,Romania,"Liubi, Liubi, I Love You",Todomondo,2007,0.11081794,20,13,0.11081794
+988,North Macedonia,Mojot Svet,Karolina,2007,0.09630607,6,14,0.09630607
+989,Slovenia,Cvet Z Juga,Alenka Gotar,2007,0.08707124,7,15,0.08707124
+990,Latvia,Questa Notte,Bonaparti.lv,2007,0.071240105,14,16,0.071240105
+991,Finland,Leave Me Alone,Hanna Pakarinen,2007,0.069920845,5,17,0.069920845
+992,Sweden,The Worrying Kind,The Ark,2007,0.06728232,12,18,0.06728232
+993,Germany,Frauen Regieren Die Welt,Roger Cicero,2007,0.0646438,16,19,0.0646438
+994,Spain,I Love You Mi Vida,NASH,2007,0.056728233,2,20,0.056728233
+995,Lithuania,Love Or Leave,4Fun,2007,0.036939315,9,21,0.036939315
+996,France,L'amour à La Française,Les Fatals Picards,2007,0.025065962,13,22,0.025065962
+997,United Kingdom,Flying The Flag (for You),Scooch,2007,0.025065962,19,22,0.025065962
+998,Ireland,They Can't Stop The Spring,Dervish,2007,0.006596306,4,24,0.006596306
+999,Russia,Believe,Dima Bilan,2008,0.35883906,24,1,0.35883906
+1000,Ukraine,Shady Lady,Ani Lorak,2008,0.30343008,18,2,0.30343008
+1001,Greece,Secret Combination,Kalomira,2008,0.28759894,21,3,0.28759894
+1002,Armenia,"Qele, Qele",Sirusho,2008,0.26253298,5,4,0.26253298
+1003,Norway,Hold On Be Strong,Maria,2008,0.24010554,25,5,0.24010554
+1004,Serbia,Oro,Jelena Tomašević feat. Bora Dugic,2008,0.21108179,23,6,0.21108179
+1005,Turkey,Deli,Mor ve Ötesi,2008,0.18205805,12,7,0.18205805
+1006,Azerbaijan,Day After Day,Elnur & Samir,2008,0.17414248,20,8,0.17414248
+1007,Israel,The Fire In Your Eyes,Boaz,2008,0.16358839,7,9,0.16358839
+1008,Bosnia & Herzegovina,Pokušaj,Laka,2008,0.14511873,6,10,0.14511873
+1009,Georgia,Peace Will Come,Diana Gurtskaya,2008,0.10949868,17,11,0.10949868
+1010,Latvia,Wolves Of The Sea,Pirates Of The Sea,2008,0.10949868,14,12,0.10949868
+1011,Portugal,Senhora Do Mar (Negras Águas),Vânia Fernandes,2008,0.091029026,13,13,0.091029026
+1012,Iceland,This Is My Life,Euroband,2008,0.08443272,11,14,0.08443272
+1013,Denmark,All Night Long,Simon Mathew,2008,0.079155676,16,15,0.079155676
+1014,Spain,Baila El Chiki Chiki,Rodolfo Chikilicuatre,2008,0.072559364,22,16,0.072559364
+1015,Albania,Zemrën E Lamë Peng,Olta Boka,2008,0.072559364,3,17,0.072559364
+1016,Sweden,Hero,Charlotte Perrelli,2008,0.062005278,15,18,0.062005278
+1017,France,Divine,Sébastien Tellier,2008,0.062005278,19,19,0.062005278
+1018,Romania,Pe-o Margine De Lume,Nico & Vlad,2008,0.059366755,1,20,0.059366755
+1019,Croatia,Romanca,Kraljevi Ulice & 75 Cents,2008,0.058047492,9,21,0.058047492
+1020,Finland,Missä Miehet Ratsastaa,Teräsbetoni,2008,0.046174143,8,22,0.046174143
+1021,Germany,Disappear,No Angels,2008,0.018469658,4,23,0.018469658
+1022,Poland,For Life,Isis Gee,2008,0.018469658,10,24,0.018469658
+1023,United Kingdom,Even If,Andy Abraham,2008,0.018469658,2,25,0.018469658
+1024,Norway,Fairytale,Alexander Rybak,2009,0.5105541,20,1,0.5105541
+1025,Iceland,Is It True?,Yohanna,2009,0.28759894,7,2,0.28759894
+1026,Azerbaijan,Always,AySel & Arash,2009,0.27308708,11,3,0.27308708
+1027,Turkey,Düm Tek Tek,Hadise,2009,0.23350923,18,4,0.23350923
+1028,United Kingdom,It's My Time,Jade Ewen,2009,0.22823219,23,5,0.22823219
+1029,Estonia,Rändajad,Urban Symphony,2009,0.1701847,15,6,0.1701847
+1030,Greece,This Is Our Night,Sakis Rouvas,2009,0.15831135,8,7,0.15831135
+1031,France,Et S'il Fallait Le Faire,Patricia Kaas,2009,0.14116095,3,8,0.14116095
+1032,Bosnia & Herzegovina,Bistra Voda,Regina,2009,0.13984169,12,9,0.13984169
+1033,Armenia,Jan Jan,Inga & Anush,2009,0.12137203,9,10,0.12137203
+1034,Russia,Mamo,Anastasia Prikhodko,2009,0.12005277,10,11,0.12005277
+1035,Ukraine,Be my Valentine! (Anti-crisis Girl),Svetlana Loboda,2009,0.10026385,21,12,0.10026385
+1036,Denmark,Believe Again,Brinck,2009,0.09762533,16,13,0.09762533
+1037,Moldova,Hora Din Moldova,Nelly Ciobanu,2009,0.091029026,13,14,0.091029026
+1038,Portugal,Todas As Ruas Do Amor,Flor-de-lis,2009,0.07519789,6,15,0.07519789
+1039,Israel,There Must Be Another Way,Noa & Mira Awad,2009,0.069920845,2,16,0.069920845
+1040,Albania,Carry Me In Your Dreams,Kejsi Tola,2009,0.06332454,19,17,0.06332454
+1041,Croatia,Lijepa Tena,Igor Cukrov feat. Andrea,2009,0.059366755,5,18,0.059366755
+1042,Romania,The Balkan Girls,Elena,2009,0.052770447,22,19,0.052770447
+1043,Germany,Miss Kiss Kiss Bang,Alex Swings Oscar Sings!,2009,0.046174143,17,20,0.046174143
+1044,Sweden,La Voix,Malena Ernman,2009,0.04353562,4,21,0.04353562
+1045,Malta,What If We,Chiara,2009,0.040897097,14,22,0.040897097
+1046,Lithuania,Love,Sasha Son,2009,0.030343007,1,23,0.030343007
+1047,Spain,La Noche Es Para Mí,Soraya,2009,0.030343007,25,24,0.030343007
+1048,Finland,Lose Control,Waldo's People,2009,0.029023746,24,25,0.029023746
+1049,Germany,Satellite,Lena,2010,0.32453826,22,1,0.32453826
+1050,Turkey,We Could Be The Same,maNga,2010,0.22427441,14,2,0.22427441
+1051,Romania,Playing With Fire,Paula Seling & Ovi,2010,0.21372032,19,3,0.21372032
+1052,Denmark,In A Moment Like This,Chanée & N'evergreen,2010,0.19656992,25,4,0.19656992
+1053,Azerbaijan,Drip Drop,Safura,2010,0.19129288,1,5,0.19129288
+1054,Belgium,Me And My Guitar,Tom Dice,2010,0.18865435,7,6,0.18865435
+1055,Armenia,Apricot Stone,Eva Rivas,2010,0.18601583,21,7,0.18601583
+1056,Greece,OPA,Giorgos Alkaios & Friends,2010,0.18469657,11,8,0.18469657
+1057,Georgia,Shine,Sofia Nizharadze,2010,0.17941953,13,9,0.17941953
+1058,Ukraine,Sweet People,Alyosha,2010,0.14248021,17,10,0.14248021
+1059,Russia,Lost And Forgotten,Peter Nalitch & Friends,2010,0.11873351,20,11,0.11873351
+1060,France,Allez Olla Olé,Jessy Matador,2010,0.10817942,18,12,0.10817942
+1061,Serbia,Ovo Je Balkan,Milan Stanković,2010,0.094986804,8,13,0.094986804
+1062,Israel,Milim,Harel Skaat,2010,0.093667544,24,14,0.093667544
+1063,Spain,Algo Pequeñito,Daniel Diges,2010,0.089709766,2,15,0.089709766
+1064,Albania,It's All About You,Juliana Pasha,2010,0.081794195,15,16,0.081794195
+1065,Bosnia & Herzegovina,Thunder and Lightning,Vukašin Brajić,2010,0.06728232,6,17,0.06728232
+1066,Portugal,Há Dias Assim,Filipa Azevedo,2010,0.056728233,23,18,0.056728233
+1067,Iceland,Je Ne Sais Quoi,Hera Björk,2010,0.05408971,16,19,0.05408971
+1068,Norway,My Heart Is Yours,Didrik Solli-Tangen,2010,0.046174143,3,20,0.046174143
+1069,Cyprus,Life Looks Better In Spring,Jon Lilygreen & The Islanders,2010,0.035620052,5,21,0.035620052
+1070,Moldova,Run Away,Sunstroke Project & Olia Tira,2010,0.035620052,4,22,0.035620052
+1071,Ireland,It's For You,Niamh Kavanagh,2010,0.03298153,10,23,0.03298153
+1072,Belarus,Butterflies,3+2,2010,0.023746701,9,24,0.023746701
+1073,United Kingdom,That Sounds Good To Me,Josh,2010,0.013192612,12,25,0.013192612
+1074,Azerbaijan,Running Scared,Ell/Nikki,2011,0.29155672,19,1,0.29155672
+1075,Italy,Madness Of Love,Raphael Gualazzi,2011,0.24934037,12,2,0.24934037
+1076,Sweden,Popular,Eric Saade,2011,0.24406332,7,3,0.24406332
+1077,Ukraine,Angel,Mika Newton,2011,0.20976253,23,4,0.20976253
+1078,Denmark,New Tomorrow,A Friend In London,2011,0.176781,3,5,0.176781
+1079,Bosnia & Herzegovina,Love In Rewind,Dino Merlin,2011,0.16490765,2,6,0.16490765
+1080,Greece,Watch My Dance,Loucas Yiorkas feat. Stereo Mike,2011,0.15831135,9,7,0.15831135
+1081,Ireland,Lipstick,Jedward,2011,0.15699208,6,8,0.15699208
+1082,Georgia,One More Day,Eldrine,2011,0.14511873,25,9,0.14511873
+1083,Germany,Taken By A Stranger,Lena,2011,0.14116095,16,10,0.14116095
+1084,United Kingdom,I Can,Blue,2011,0.13192612,14,11,0.13192612
+1085,Moldova,So Lucky,Zdob și Zdub,2011,0.12796834,15,12,0.12796834
+1086,Slovenia,No One,Maja Keuc,2011,0.12664908,20,13,0.12664908
+1087,Serbia,Čaroban,Nina,2011,0.112137206,24,14,0.112137206
+1088,France,Sognu,Amaury Vassili,2011,0.10817942,11,15,0.10817942
+1089,Russia,Get You,Alexej Vorobjov,2011,0.101583116,10,16,0.101583116
+1090,Romania,Change,Hotel FM,2011,0.101583116,17,17,0.101583116
+1091,Austria,The Secret Is Love,Nadine Beiler,2011,0.08443272,18,18,0.08443272
+1092,Lithuania,C'est Ma Vie,Evelina Sašenko,2011,0.083113454,4,19,0.083113454
+1093,Iceland,Coming Home,Sjonni's Friends,2011,0.080474935,21,20,0.080474935
+1094,Finland,Da Da Dam,Paradise Oskar,2011,0.07519789,1,21,0.07519789
+1095,Hungary,What About My Dreams?,Kati Wolf,2011,0.069920845,5,22,0.069920845
+1096,Spain,Que Me Quiten Lo Bailao,Lucía Pérez,2011,0.06596306,22,23,0.06596306
+1097,Estonia,Rockefeller Street,Getter Jaani,2011,0.058047492,8,24,0.058047492
+1098,Switzerland,In Love For A While,Anna Rossinelli,2011,0.025065962,13,25,0.025065962
+1099,Sweden,Euphoria,Loreen,2012,0.49076518,17,1,0.49076518
+1100,Russia,Party For Everybody,Buranovskiye Babushki,2012,0.34168866,6,2,0.34168866
+1101,Serbia,Nije Ljubav Stvar,Željko Joksimović,2012,0.2823219,24,3,0.2823219
+1102,Azerbaijan,When The Music Dies,Sabina Babayeva,2012,0.19788918,13,4,0.19788918
+1103,Albania,Suus,Rona Nishliu,2012,0.19261214,3,5,0.19261214
+1104,Estonia,Kuula,Ott Lepland,2012,0.15831135,11,6,0.15831135
+1105,Turkey,Love Me Back,Can Bonomo,2012,0.14775726,18,7,0.14775726
+1106,Germany,Standing Still,Roman Lob,2012,0.14511873,20,8,0.14511873
+1107,Italy,L'Amore È Femmina (Out Of Love),Nina Zilli,2012,0.13324538,10,9,0.13324538
+1108,Spain,Quédate Conmigo,Pastora Soler,2012,0.12796834,19,10,0.12796834
+1109,Moldova,Lăutar,Pasha Parfeny,2012,0.10686016,26,11,0.10686016
+1110,Romania,Zaleilah,Mandinga,2012,0.093667544,14,12,0.093667544
+1111,North Macedonia,Crno I Belo,Kaliopi,2012,0.093667544,22,13,0.093667544
+1112,Lithuania,Love Is Blind,Donny Montell,2012,0.092348285,4,14,0.092348285
+1113,Ukraine,Be My Guest,Gaitana,2012,0.08575198,25,15,0.08575198
+1114,Cyprus,La La Love,Ivi Adamou,2012,0.08575198,8,16,0.08575198
+1115,Greece,Aphrodisiac,Eleftheria Eleftheriou,2012,0.08443272,16,17,0.08443272
+1116,Bosnia & Herzegovina,Korake Ti Znam,Maya Sar,2012,0.072559364,5,18,0.072559364
+1117,Ireland,Waterline,Jedward,2012,0.060686015,23,19,0.060686015
+1118,Iceland,Never Forget,Greta Salóme & Jónsi,2012,0.060686015,7,20,0.060686015
+1119,Malta,This Is The Night,Kurt Calleja,2012,0.05408971,21,21,0.05408971
+1120,France,Echo (You And I),Anggun,2012,0.027704485,9,22,0.027704485
+1121,Denmark,Should've Known Better,Soluna Samay,2012,0.027704485,15,23,0.027704485
+1122,Hungary,Sound Of Our Hearts,Compact Disco,2012,0.025065962,2,24,0.025065962
+1123,United Kingdom,Love Will Set You Free,Engelbert Humperdinck,2012,0.015831135,1,25,0.015831135
+1124,Norway,Stay,Tooji,2012,0.009234829,12,26,0.009234829
+1125,Denmark,Only Teardrops,Emmelie de Forest,2013,0.3707124,18,1,0.3707124
+1126,Azerbaijan,Hold Me,Farid Mammadov,2013,0.30870712,20,2,0.30870712
+1127,Ukraine,Gravity,Zlata Ognevich,2013,0.2823219,22,3,0.2823219
+1128,Norway,I Feed You My Love,Margaret Berger,2013,0.2519789,24,4,0.2519789
+1129,Russia,What If,Dina Garipova,2013,0.22955145,10,5,0.22955145
+1130,Greece,Alcohol Is Free,Koza Mostra feat. Agathon Iakovidis,2013,0.2005277,21,6,0.2005277
+1131,Italy,L'Essenziale,Marco Mengoni,2013,0.16622691,23,7,0.16622691
+1132,Malta,Tomorrow,Gianluca,2013,0.15831135,9,8,0.15831135
+1133,Netherlands,Birds,Anouk,2013,0.15039578,13,9,0.15039578
+1134,Hungary,Kedvesem,ByeAlex,2013,0.11081794,17,10,0.11081794
+1135,Moldova,O Mie,Aliona Moon,2013,0.093667544,3,11,0.093667544
+1136,Belgium,Love Kills,Roberto Bellarosa,2013,0.093667544,6,12,0.093667544
+1137,Romania,It's My Life,Cezar,2013,0.08575198,14,13,0.08575198
+1138,Sweden,You,Robin Stjernberg,2013,0.081794195,16,14,0.081794195
+1139,Georgia,Waterfall,Nodi Tatishvili & Sophie Gelovani,2013,0.06596306,25,15,0.06596306
+1140,Belarus,Solayoh,Alyona Lanskaya,2013,0.06332454,8,16,0.06332454
+1141,Iceland,Ég Á Líf,Eythor Ingi,2013,0.062005278,19,17,0.062005278
+1142,Armenia,Lonely Planet,Dorians,2013,0.05408971,12,18,0.05408971
+1143,United Kingdom,Believe In Me,Bonnie Tyler,2013,0.030343007,15,19,0.030343007
+1144,Estonia,Et Uus Saaks Alguse,Birgit,2013,0.025065962,7,20,0.025065962
+1145,Germany,Glorious,Cascada,2013,0.023746701,11,21,0.023746701
+1146,Lithuania,Something,Andrius Pojavis,2013,0.022427442,2,22,0.022427442
+1147,France,L'enfer Et Moi,Amandine Bourgeois,2013,0.018469658,1,23,0.018469658
+1148,Finland,Marry Me,Krista Siegfrids,2013,0.017150396,4,24,0.017150396
+1149,Spain,Contigo Hasta El Final,ESDM,2013,0.01055409,5,25,0.01055409
+1150,Ireland,Only Love Survives,Ryan Dolan,2013,0.006596306,26,26,0.006596306
+1151,Austria,Rise Like a Phoenix,Conchita Wurst,2014,0.38258576,11,1,0.38258576
+1152,Netherlands,Calm After The Storm,The Common Linnets,2014,0.31398416,24,2,0.31398416
+1153,Sweden,Undo,Sanna Nielsen,2014,0.28759894,13,3,0.28759894
+1154,Armenia,Not Alone,Aram MP3,2014,0.22955145,7,4,0.22955145
+1155,Hungary,Running,András Kállay-Saunders,2014,0.18865435,21,5,0.18865435
+1156,Ukraine,Tick - Tock,Mariya Yaremchuk,2014,0.14907652,1,6,0.14907652
+1157,Russia,Shine,Tolmachevy Sisters,2014,0.11741425,15,7,0.11741425
+1158,Norway,Silent Storm,Carl Espen,2014,0.116094984,5,8,0.116094984
+1159,Denmark,Cliche Love Song,Basim,2014,0.09762533,23,9,0.09762533
+1160,Spain,Dancing in the rain,Ruth Lorenzo,2014,0.09762533,19,10,0.09762533
+1161,Finland,Something Better,Softengine,2014,0.094986804,18,11,0.094986804
+1162,Romania,Miracle,Paula Seling & OVI,2014,0.094986804,6,12,0.094986804
+1163,Switzerland,Hunter Of Stars,Sebalter,2014,0.08443272,20,13,0.08443272
+1164,Poland,My Słowianie - We Are Slavic,Donatan & Cleo,2014,0.081794195,9,14,0.081794195
+1165,Iceland,No Prejudice,Pollapönk,2014,0.07651715,4,15,0.07651715
+1166,Belarus,Cheesecake,Teo,2014,0.056728233,2,16,0.056728233
+1167,United Kingdom,Children of the Universe,Molly,2014,0.052770447,26,17,0.052770447
+1168,Germany,Is It Right,Elaiza,2014,0.051451188,12,18,0.051451188
+1169,Montenegro,Moj Svijet,Sergej Ćetković,2014,0.048812665,8,19,0.048812665
+1170,Greece,Rise Up,Freaky Fortune feat. RiskyKidd,2014,0.046174143,10,20,0.046174143
+1171,Italy,La Mia Città,Emma,2014,0.04353562,16,21,0.04353562
+1172,Azerbaijan,Start A Fire,Dilara Kazimova,2014,0.04353562,3,22,0.04353562
+1173,Malta,Coming Home,Firelight,2014,0.04221636,22,23,0.04221636
+1174,San Marino,Maybe (Forse),Valentina Monetta,2014,0.018469658,25,24,0.018469658
+1175,Slovenia,Round and Round,Tinkara Kovač,2014,0.0118733505,17,25,0.0118733505
+1176,France,Moustache,TWIN TWIN,2014,0.0026385225,14,26,0.0026385225
+1177,Sweden,Heroes,Måns Zelmerlöw,2015,0.48153034,10,1,0.48153034
+1178,Russia,A Million Voices,Polina Gagarina,2015,0.39973614,25,2,0.39973614
+1179,Italy,Grande Amore,Il Volo,2015,0.38522428,27,3,0.38522428
+1180,Belgium,Rhythm Inside,Loïc Nottet,2015,0.28627968,13,4,0.28627968
+1181,Australia,Tonight Again,Guy Sebastian,2015,0.2585752,12,5,0.2585752
+1182,Latvia,Love Injected,Aminata Savadogo,2015,0.24538259,19,6,0.24538259
+1183,Estonia,Goodbye to Yesterday,Elina Born & Stig Rästa,2015,0.13984169,4,7,0.13984169
+1184,Norway,A Monster Like Me,Mørland & Debrah Scarlett,2015,0.13456464,9,8,0.13456464
+1185,Israel,Golden Boy,Nadav Guedj,2015,0.12796834,3,9,0.12796834
+1186,Serbia,Beauty Never Lies,Bojana Stamenov,2015,0.069920845,8,10,0.069920845
+1187,Georgia,Warrior,Nina Sublatti,2015,0.06728232,23,11,0.06728232
+1188,Azerbaijan,Hour Of The Wolf,Elnur Hüseynov,2015,0.0646438,24,12,0.0646438
+1189,Montenegro,Adio,Knez,2015,0.058047492,16,13,0.058047492
+1190,Slovenia,Here for You,Maraaya,2015,0.051451188,1,14,0.051451188
+1191,Romania,De La Capăt / All Over Again,Voltaj,2015,0.046174143,20,15,0.046174143
+1192,Armenia,Face The Shadow,Genealogy,2015,0.044854883,6,16,0.044854883
+1193,Albania,I'm Alive,Elhaida Dani,2015,0.044854883,26,17,0.044854883
+1194,Lithuania,This Time,Monika & Vaidas,2015,0.039577838,7,18,0.039577838
+1195,Greece,One Last Breath,Maria Elena Kyriakou,2015,0.030343007,15,19,0.030343007
+1196,Hungary,Wars For Nothing,Boggie,2015,0.025065962,22,20,0.025065962
+1197,Spain,Amanecer,Edurne,2015,0.019788919,21,21,0.019788919
+1198,Cyprus,One Thing I Should Have Done,John Karayiannis,2015,0.014511873,11,22,0.014511873
+1199,Poland,In The Name Of Love,Monika Kuszyńska,2015,0.013192612,18,23,0.013192612
+1200,United Kingdom,Still in Love with You,Electro Velvet,2015,0.006596306,5,24,0.006596306
+1201,France,N’oubliez pas,Lisa Angell,2015,0.005277045,2,25,0.005277045
+1202,Austria,I Am Yours,The Makemakes,2015,0.0,14,26,0.0
+1203,Germany,Black Smoke,Ann Sophie,2015,0.0,17,27,0.0
+1204,Ukraine,1944,Jamala,2016,0.7044855,323,1,0.7044855
+1205,Australia,Sound of Silence,Dami Im,2016,0.6741425,191,2,0.6741425
+1206,Russia,You Are the Only One,Sergey Lazarev,2016,0.64775723,361,3,0.64775723
+1207,Bulgaria,If Love Was a Crime,Poli Genova,2016,0.4050132,180,4,0.4050132
+1208,Sweden,If I Were Sorry,Frans,2016,0.34432718,139,5,0.34432718
+1209,France,J'ai Cherché,Amir,2016,0.33905014,109,6,0.33905014
+1210,Armenia,LoveWave,Iveta Mukuchyan,2016,0.32849604,134,7,0.32849604
+1211,Poland,Color of Your Life,Michał Szpak,2016,0.30211082,222,8,0.30211082
+1212,Lithuania,I've Been Waiting for This Night,Donny Montell,2016,0.26385224,96,9,0.26385224
+1213,Belgium,What's the Pressure,Laura Tesoro,2016,0.23878628,51,10,0.23878628
+1214,Netherlands,Slow Down,Douwe Bob,2016,0.20184697,39,11,0.20184697
+1215,Malta,Walk on Water,Ira Losco,2016,0.20184697,16,12,0.20184697
+1216,Austria,Loin d'ici,Zoë,2016,0.19920844,120,13,0.19920844
+1217,Israel,Made of Stars,Hovi Star,2016,0.17810026,11,14,0.17810026
+1218,Latvia,Heartbeat,Justs,2016,0.17414248,63,15,0.17414248
+1219,Italy,No Degree of Separation,Francesca Michielin,2016,0.16358839,34,16,0.16358839
+1220,Azerbaijan,Miracle,Samra,2016,0.15435356,73,17,0.15435356
+1221,Serbia,Goodbye (Shelter),Sanja Vučić ZAA,2016,0.15171504,80,18,0.15171504
+1222,Hungary,Pioneer,Freddie,2016,0.14248021,56,19,0.14248021
+1223,Georgia,Midnight Gold,Nika Kocharov & Young Georgian Lolitaz,2016,0.13720317,24,20,0.13720317
+1224,Cyprus,Alter Ego,Minus One,2016,0.12664908,53,21,0.12664908
+1225,Spain,Say Yay!,Barei,2016,0.101583116,10,22,0.101583116
+1226,Croatia,Lighthouse,Nina Kraljić,2016,0.09630607,33,23,0.09630607
+1227,United Kingdom,You're Not Alone,Joe & Jake,2016,0.081794195,8,24,0.081794195
+1228,Czech Republic,I Stand,Gabriela Gunčíková,2016,0.05408971,0,25,0.05408971
+1229,Germany,Ghost,Jamie-Lee Kriewitz,2016,0.014511873,10,26,0.014511873
+1230,Portugal,Amar Pelos Dois,Salvador Sobral,2017,1.0,376,1,1.0
+1231,Bulgaria,Beautiful Mess,Kristian Kostov,2017,0.81134564,337,2,0.81134564
+1232,Moldova,Hey Mamma,Sunstroke Project,2017,0.4934037,264,3,0.4934037
+1233,Belgium,City Lights,Blanche,2017,0.47889182,255,4,0.47889182
+1234,Sweden,I Can't Go On,Robin Bengtsson,2017,0.45382586,126,5,0.45382586
+1235,Italy,Occidentali's Karma,Francesco Gabbani,2017,0.44063324,208,6,0.44063324
+1236,Romania,Yodel It!,Ilinca feat. Alex Florea,2017,0.37203166,224,7,0.37203166
+1237,Hungary,Origo,Joci Pápai,2017,0.26385224,152,8,0.26385224
+1238,Australia,Don't Come Easy,Isaiah,2017,0.22823219,2,9,0.22823219
+1239,Norway,Grab the Moment,Jowst,2017,0.20844327,29,10,0.20844327
+1240,Netherlands,Lights And Shadows,OG3NE,2017,0.19788918,15,11,0.19788918
+1241,France,Requiem,Alma,2017,0.17810026,90,12,0.17810026
+1242,Croatia,My Friend,Jacques Houdek,2017,0.16886544,103,13,0.16886544
+1243,Azerbaijan,Skeletons,Dihaj,2017,0.15831135,42,14,0.15831135
+1244,United Kingdom,Never Give Up on You,Lucie Jones,2017,0.14643799,12,15,0.14643799
+1245,Austria,Running On Air,Nathan Trent,2017,0.122691296,0,16,0.122691296
+1246,Belarus,Historyja majho žyccia,Naviband,2017,0.10949868,33,17,0.10949868
+1247,Armenia,Fly With Me,Artsvik,2017,0.104221635,21,18,0.104221635
+1248,Greece,This is Love,Demy,2017,0.101583116,29,19,0.101583116
+1249,Denmark,Where I Am,Anja,2017,0.101583116,8,20,0.101583116
+1250,Cyprus,Gravity,Hovig,2017,0.089709766,32,21,0.089709766
+1251,Poland,Flashlight,Kasia Moś,2017,0.08443272,41,22,0.08443272
+1252,Israel,I Feel Alive,Imri Ziv,2017,0.051451188,5,23,0.051451188
+1253,Ukraine,Time,O.Torvald,2017,0.047493402,24,24,0.047493402
+1254,Germany,Perfect Life,Levina,2017,0.007915568,3,25,0.007915568
+1255,Spain,Do It for Your Lover,Manel Navarro,2017,0.006596306,5,26,0.006596306
+1256,Israel,Toy,Netta,2018,0.6978892,317,1,0.6978892
+1257,Cyprus,Fuego,Eleni Foureira,2018,0.5751979,253,2,0.5751979
+1258,Austria,Nobody But You,Cesár Sampson,2018,0.45118734,71,3,0.45118734
+1259,Germany,You Let Me Walk Alone,Michael Schulte,2018,0.44854882,136,4,0.44854882
+1260,Italy,Non Mi Avete Fatto Niente,Ermal Meta & Fabrizio Moro,2018,0.40633246,249,5,0.40633246
+1261,Czech Republic,Lie To Me,Mikolas Josef,2018,0.3707124,215,6,0.3707124
+1262,Sweden,Dance You Off,Benjamin Ingrosso,2018,0.36147758,21,7,0.36147758
+1263,Estonia,La Forza,Elina Nechayeva,2018,0.323219,102,8,0.323219
+1264,Denmark,Higher Ground,Rasmussen,2018,0.29815304,188,9,0.29815304
+1265,Moldova,My Lucky Day,DoReDos,2018,0.2757256,115,10,0.2757256
+1266,Albania,Mall,Eugent Bushpepa,2018,0.24274406,58,11,0.24274406
+1267,Lithuania,When We're Old,Ieva Zasimauskaitė,2018,0.23878628,91,12,0.23878628
+1268,France,Mercy,Madame Monsieur,2018,0.22823219,59,13,0.22823219
+1269,Bulgaria,Bones,Equinox,2018,0.21899736,66,14,0.21899736
+1270,Norway,That's How You Write a Song,Alexander Rybak,2018,0.18997361,84,15,0.18997361
+1271,Ireland,Together,Ryan O'Shaughnessy,2018,0.17941953,62,16,0.17941953
+1272,Ukraine,Under the Ladder,Mélovin,2018,0.17150396,119,17,0.17150396
+1273,Netherlands,Outlaw In 'Em,Waylon,2018,0.15963061,32,18,0.15963061
+1274,Serbia,Nova Deca,Sanja Ilić & Balkanika,2018,0.14907652,75,19,0.14907652
+1275,Australia,We Got Love,Jessica Mauboy,2018,0.13060686,9,20,0.13060686
+1276,Hungary,Viszlát Nyár,AWS,2018,0.122691296,65,21,0.122691296
+1277,Slovenia,"Hvala, ne!",Lea Sirk,2018,0.08443272,23,22,0.08443272
+1278,Spain,Tu Canción,Amaia & Alfred,2018,0.080474935,18,23,0.080474935
+1279,United Kingdom,Storm,SuRie,2018,0.06332454,25,24,0.06332454
+1280,Finland,Monsters,Saara Aalto,2018,0.060686015,23,25,0.060686015
+1281,Portugal,O Jardim,Cláudia Pascoal,2018,0.051451188,18,26,0.051451188
+1282,Netherlands,Arcade,Duncan Laurence,2019,0.6569921,261,1,0.6569921
+1283,Italy,Soldi,Mahmood,2019,0.6226913,253,2,0.6226913
+1284,Russia,Scream,Sergey Lazarev,2019,0.48812664,244,3,0.48812664
+1285,Switzerland,She Got Me,Luca Hänni,2019,0.48021108,212,4,0.48021108
+1286,Sweden,Too Late for Love,John Lundvik,2019,0.44063324,93,5,0.44063324
+1287,Norway,Spirit in the Sky,KEiiNO,2019,0.43667546,291,6,0.43667546
+1288,North Macedonia,Proud,Tamara Todevska,2019,0.40237468,58,7,0.40237468
+1289,Azerbaijan,Truth,Chingiz,2019,0.39841688,100,8,0.39841688
+1290,Australia,Zero Gravity,Kate Miller-Heidke,2019,0.37467018,131,9,0.37467018
+1291,Iceland,Hatrið mun sigra,Hatari,2019,0.3060686,186,10,0.3060686
+1292,Czech Republic,Friend of a Friend,Lake Malawi,2019,0.20712401,7,11,0.20712401
+1293,Denmark,Love Is Forever,Leonora,2019,0.15831135,51,12,0.15831135
+1294,Cyprus,Replay,Tamta,2019,0.14379947,32,13,0.14379947
+1295,Malta,Chameleon,Michela,2019,0.14116095,20,14,0.14116095
+1296,Slovenia,Sebi,Zala Kralj & Gašper Šantl,2019,0.13852243,59,15,0.13852243
+1297,France,Roi,Bilal Hassani,2019,0.13852243,38,16,0.13852243
+1298,Albania,Ktheju Tokës,Jonida Maliqi,2019,0.11873351,47,17,0.11873351
+1299,Serbia,Kruna,Nevena Božović,2019,0.11741425,54,18,0.11741425
+1300,San Marino,Say Na Na Na,Serhat,2019,0.101583116,65,19,0.101583116
+1301,Estonia,Storm,Victor Crone,2019,0.10026385,48,20,0.10026385
+1302,Greece,Better Love,Katerine Duska,2019,0.09762533,24,21,0.09762533
+1303,Spain,La Venda,Miki,2019,0.071240105,53,22,0.071240105
+1304,Israel,Home,Kobi Marimi,2019,0.046174143,35,23,0.046174143
+1305,Belarus,Like It,Zena,2019,0.040897097,13,24,0.040897097
+1306,Germany,Sister,S!sters,2019,0.03166227,0,25,0.03166227
+1307,United Kingdom,Bigger Than Us,Michael Rice,2019,0.014511873,3,26,0.014511873
+1308,Italy,Zitti e buoni,Måneskin,2020,0.6912929,318,1,0.6912929
+1309,France,Voilà,Barbara Pravi,2020,0.65831137,251,2,0.65831137
+1310,Switzerland,Tout l'univers,Gjon's Tears,2020,0.56992084,165,3,0.56992084
+1311,Iceland,10 Years,Daði & Gagnamagnið,2020,0.49868074,180,4,0.49868074
+1312,Ukraine,Shum,Go_A,2020,0.48021108,267,5,0.48021108
+1313,Finland,Dark Side,Blind Channel,2020,0.39709762,218,6,0.39709762
+1314,Malta,Je Me Casse,Destiny,2020,0.3364116,47,7,0.3364116
+1315,Lithuania,Discoteque,The Roop,2020,0.29023746,165,8,0.29023746
+1316,Russia,Russian Woman,Manizha,2020,0.26912928,100,9,0.26912928
+1317,Greece,Last Dance,Stefania,2020,0.22427441,79,10,0.22427441
+1318,Bulgaria,Growing Up Is Getting Old,Victoria,2020,0.22427441,30,11,0.22427441
+1319,Portugal,Love Is On My Side,The Black Mamba,2020,0.20184697,27,12,0.20184697
+1320,Moldova,Sugar,Natalia Gordienko,2020,0.15171504,62,13,0.15171504
+1321,Sweden,Voices,Tusse,2020,0.14379947,63,14,0.14379947
+1322,Serbia,Loco Loco,Hurricane,2020,0.13456464,82,15,0.13456464
+1323,Cyprus,El Diablo,Elena Tsagrinou,2020,0.124010555,44,16,0.124010555
+1324,Israel,Set Me Free,Eden Alene,2020,0.122691296,20,17,0.122691296
+1325,Norway,Fallen Angel,TIX,2020,0.09894459,60,18,0.09894459
+1326,Belgium,The Wrong Place,Hooverphonic,2020,0.09762533,3,19,0.09762533
+1327,Azerbaijan,Mata Hari,Efendi,2020,0.08575198,33,20,0.08575198
+1328,Albania,Karma,Anxhela Peristeri,2020,0.07519789,35,21,0.07519789
+1329,San Marino,Adrenalina,Senhit feat. Flo Rida,2020,0.06596306,13,22,0.06596306
+1330,Netherlands,Birth Of A New Age,Jeangu Macrooy,2020,0.014511873,0,23,0.014511873
+1331,Spain,Voy A Quedarme,Blas Cantó,2020,0.007915568,0,24,0.007915568
+1332,Germany,I Don't Feel Hate,Jendrik,2020,0.003957784,0,25,0.003957784
+1333,United Kingdom,Embers,James Newman,2020,0.0,0,26,0.0
